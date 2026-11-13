@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+html, body, #root { margin: 0; width: 100%; min-width: 0; max-width: 100%; min-height: 100%; overflow-x: hidden; }
+body { font-family: Inter, system-ui, sans-serif; }
+.font-mono, textarea, .font-mono * { font-family: 'Courier New', Courier, monospace; }
+button, input, textarea, select { font: inherit; }
+button { -webkit-tap-highlight-color: transparent; }
