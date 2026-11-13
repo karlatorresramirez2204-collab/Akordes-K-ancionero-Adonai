@@ -10,8 +10,12 @@
   "theme_color": "#09090b",
   "lang": "es",
   "description": "Biblioteca de alabanzas, setlists, versiones y audios locales.",
-  "icons": [
-    { "src": "/Akordes-K-ancionero-Adonai/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
-    { "src": "/Akordes-K-ancionero-Adonai/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+    "icons": [
+    {
+      "src": "/Akordes-K-ancionero-Adonai/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
   ]
 }
