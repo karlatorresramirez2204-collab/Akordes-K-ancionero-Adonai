@@ -4,6 +4,6 @@ import tailwindcss from '@tailwindcss/vite';
 
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: '/Akordes/',
+  base: '/Akordes-K-ancionero-Adonai/',
   build: { target: 'es2020' }
 });
