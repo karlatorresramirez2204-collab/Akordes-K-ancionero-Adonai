@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Subir audio · Kancionero Nuevo</title>
+  <style>
+    body { margin: 0; padding: 18px; background: #111318; color: #fff; font-family: Arial, sans-serif; }
+    main { max-width: 520px; margin: 0 auto; }
+    h1 { font-size: 22px; color: #fbbf24; }
+    p { line-height: 1.45; font-size: 15px; }
+    label, button, a { display: block; width: 100%; box-sizing: border-box; margin: 14px 0; border-radius: 8px; padding: 14px; font-size: 16px; }
+    input[type=file] { background: #fff; color: #111; border: 2px solid #fbbf24; }
+    button, a { border: 0; background: #fbbf24; color: #111; font-weight: bold; text-align: center; text-decoration: none; }
+    #status { min-height: 42px; padding: 10px; border-radius: 8px; background: #20242d; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Subir audio en teléfono antiguo</h1>
+    <p>Elige un archivo desde Descargas o Música. Esta pantalla usa un selector sencillo para teléfonos antiguos.</p>
+    <label for="audioFile">1. Elegir audio</label>
+    <input id="audioFile" type="file">
+    <button id="saveButton" type="button">2. Guardar en Kancionero Nuevo</button>
+    <p id="status">Todavía no has elegido un archivo.</p>
+    <a href="./">Volver al Kancionero Nuevo</a>
+  </main>
+  <script>
+    (function () {
+      var input = document.getElementById('audioFile');
+      var button = document.getElementById('saveButton');
+      var status = document.getElementById('status');
+      var DB_NAME = 'kancionero_nuevo_audio_db';
+      var STORE_NAME = 'song_audios';
+      var selectedFile = null;
+
+      function readSelectedFile() {
+        selectedFile = input.files && input.files[0] ? input.files[0] : null;
+        status.innerHTML = selectedFile ? 'Elegido: ' + selectedFile.name : 'Todavía no has elegido un archivo.';
+        return selectedFile;
+      }
+      input.onchange = readSelectedFile;
+      input.oninput = readSelectedFile;
+      input.onblur = function () { setTimeout(readSelectedFile, 150); };
+
+      function saveSong(songId, file, done) {
+        if (!window.indexedDB) { done(new Error('Este navegador no tiene almacenamiento local compatible.')); return; }
+        var request = indexedDB.open(DB_NAME, 2);
+        request.onupgradeneeded = function () {
+          var db = request.result;
+          if (!db.objectStoreNames.contains(STORE_NAME)) db.createObjectStore(STORE_NAME);
+          if (!db.objectStoreNames.contains('app_state')) db.createObjectStore('app_state');
+        };
+        request.onerror = function () { done(request.error || new Error('No se pudo abrir el almacenamiento.')); };
+        request.onsuccess = function () {
+          var db = request.result;
+          var transaction = db.transaction(STORE_NAME, 'readwrite');
+          var blob = file.slice ? file.slice(0, file.size, file.type || 'application/octet-stream') : file;
+          transaction.objectStore(STORE_NAME).put(blob, songId);
+          transaction.oncomplete = function () { done(null); };
+          transaction.onerror = function () { done(transaction.error || new Error('No se pudo guardar el audio.')); };
+        };
+      }
+
+      button.onclick = function () {
+        readSelectedFile();
+        if (!selectedFile) { status.innerHTML = 'Primero toca Elegir audio.'; return; }
+        var songId = 'legacy-song-' + new Date().getTime();
+        var title = selectedFile.name.replace(/\.[^/.]+$/, '').replace(/[_-]+/g, ' ');
+        var song = { id: songId, title: title || 'Audio importado', artist: 'Audio local', key: 'C', link: '', hasAudioFile: true, audioFileName: selectedFile.name, tags: ['Audio local'], rawText: '[LETRA PENDIENTE]\nPista de audio: ' + selectedFile.name, voiceNotes: '', activeVersionId: 'version-original', versions: [{ id: 'version-original', title: 'Original', key: 'C', rawText: '[LETRA PENDIENTE]\nPista de audio: ' + selectedFile.name, voiceNotes: '' }] };
+        saveSong(songId, selectedFile, function (error) {
+          if (error) { status.innerHTML = 'No se pudo guardar: ' + error.message; return; }
+          var songs = [];
+          try { songs = JSON.parse(localStorage.getItem('kancionero_songs') || '[]'); } catch (ignore) { songs = []; }
+          songs.unshift(song);
+          try { localStorage.setItem('kancionero_songs', JSON.stringify(songs)); } catch (ignore2) {}
+          status.innerHTML = 'Guardado. Regresando al cancionero...';
+          setTimeout(function () { window.location.href = '/'; }, 700);
+        });
+      };
+    }());
+  </script>
+</body>
+</html>

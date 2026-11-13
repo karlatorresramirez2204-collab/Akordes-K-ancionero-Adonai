@@ -1,0 +1,1726 @@
+{
+  "format": "kancionero-adonai-backup",
+  "version": 2,
+  "sourceFormat": "respaldo-cancionero",
+  "exportedAt": "2026-11-13T00:27:25.860Z",
+  "songs": [
+    {
+      "id": "1",
+      "title": "Way Maker (Sinach)",
+      "artist": "",
+      "key": "Cm",
+      "link": "",
+      "tags": [],
+      "rawText": "Cm                        Ab\nEstás aquí obrando en mi vida\nEb                      Bb\nTe adoro, te adoro",
+      "voiceNotes": "",
+      "activeVersionId": "1-version-0",
+      "versions": [
+        {
+          "id": "1-version-0",
+          "title": "Original",
+          "key": "Cm",
+          "rawText": "Cm                        Ab\nEstás aquí obrando en mi vida\nEb                      Bb\nTe adoro, te adoro",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Reckless Love (Cory Asbury)",
+      "artist": "",
+      "key": "C",
+      "link": "",
+      "tags": [],
+      "rawText": "C                   G\nAntes de hablar, cantabas sobre mí\nAm                  F\nHas sido tan, tan bueno para mí",
+      "voiceNotes": "",
+      "activeVersionId": "2-version-0",
+      "versions": [
+        {
+          "id": "2-version-0",
+          "title": "Original",
+          "key": "C",
+          "rawText": "C                   G\nAntes de hablar, cantabas sobre mí\nAm                  F\nHas sido tan, tan bueno para mí",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Hay Momentos Tan Especiales (F. Monroy)",
+      "artist": "",
+      "key": "D",
+      "link": "",
+      "tags": [],
+      "rawText": "D                     F#m\nHay momentos tan especiales\n        Em       A\njunto a ti señor\nD                     F#m\nHay momentos tan especiales\n         G       A\njunto a ti señor\n           G                   A\nEn los que puedo sentir tu presencia\n           D          F#m       Bm\nEn los que puedo recostarme en ti\n           Em          A         D\nEn los que puedo yo tomar de tu amor",
+      "voiceNotes": "",
+      "activeVersionId": "3-version-0",
+      "versions": [
+        {
+          "id": "3-version-0",
+          "title": "Original",
+          "key": "D",
+          "rawText": "D                     F#m\nHay momentos tan especiales\n        Em       A\njunto a ti señor\nD                     F#m\nHay momentos tan especiales\n         G       A\njunto a ti señor\n           G                   A\nEn los que puedo sentir tu presencia\n           D          F#m       Bm\nEn los que puedo recostarme en ti\n           Em          A         D\nEn los que puedo yo tomar de tu amor",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1786219653905",
+      "title": "Se acerca el día",
+      "artist": "",
+      "key": "D",
+      "link": "",
+      "tags": [],
+      "rawText": "Intro: // Dm // //Dsus4 D //\n\nD              C    \nNos vamos de esta tierra  Al encuentro con el rey\nD            C\nNos vamos de este mundo Arrebatados por Jesús\nD              C\nAunque parezca imposible Como a Enoc nos llevará\nD              C\nAunque parezca imposible Como a Elías nos levantara\n\n     E          C#m    D\nSe acerca el día, el amado por su novia volverá\n     E          C#m     D\nSe acerca el día, el sonido de trompeta se oirá\n   E      C#m        D\nLe adoraremos cara a cara por la eternidad\n     E     C#m    D       A\nHoy celebramos su promesa de que pronto volverá\n     E   Bm  D            E        Bm  D\nSe acerca el día        se acerca el dia",
+      "voiceNotes": "",
+      "activeVersionId": "1786219653905-version-0",
+      "versions": [
+        {
+          "id": "1786219653905-version-0",
+          "title": "Ebenezer",
+          "key": "D",
+          "rawText": "Intro: // Dm // //Dsus4 D //\n\nD              C    \nNos vamos de esta tierra  Al encuentro con el rey\nD            C\nNos vamos de este mundo Arrebatados por Jesús\nD              C\nAunque parezca imposible Como a Enoc nos llevará\nD              C\nAunque parezca imposible Como a Elías nos levantara\n\n     E          C#m    D\nSe acerca el día, el amado por su novia volverá\n     E          C#m     D\nSe acerca el día, el sonido de trompeta se oirá\n   E      C#m        D\nLe adoraremos cara a cara por la eternidad\n     E     C#m    D       A\nHoy celebramos su promesa de que pronto volverá\n     E   Bm  D            E        Bm  D\nSe acerca el día        se acerca el dia",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1786220196625",
+      "title": "YO ME VOY CON ÉL",
+      "artist": "",
+      "key": "Am",
+      "link": "",
+      "tags": [],
+      "rawText": "Intro: Bm-A-G-F-Dm-E\n\nAm                   Dm\nPronto sonará la trompeta\nG                          E\nY los muertos en Cristo resucitarán\n       Am          Am G    F        \nLos Vivientes que per-ma-nez-camos \n   G                    E\nSeremos arrebatados, al encuentro\n\nCon el Señor. \n\nAm                         F        Em-Em\nYo me voy con Él, Yo no me quedo\nAm                        F\nPreparado estoy, el viene Pronto\nDm        G               E\nEn las nubes él vendrá y nos llevará.\n\nMelodía: // Am-F-Em-Am-F-Dm-G-E //\n\nC  B      Am     Am\nYo me voy con él",
+      "voiceNotes": "",
+      "activeVersionId": "1786220196625-version-0",
+      "versions": [
+        {
+          "id": "1786220196625-version-0",
+          "title": "Ebenezer",
+          "key": "Am",
+          "rawText": "Intro: Bm-A-G-F-Dm-E\n\nAm                   Dm\nPronto sonará la trompeta\nG                          E\nY los muertos en Cristo resucitarán\n       Am          Am G    F        \nLos Vivientes que per-ma-nez-camos \n   G                    E\nSeremos arrebatados, al encuentro\n\nCon el Señor. \n\nAm                         F        Em-Em\nYo me voy con Él, Yo no me quedo\nAm                        F\nPreparado estoy, el viene Pronto\nDm        G               E\nEn las nubes él vendrá y nos llevará.\n\nMelodía: // Am-F-Em-Am-F-Dm-G-E //\n\nC  B      Am     Am\nYo me voy con él",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1786220404912",
+      "title": "Llegó el tiempo",
+      "artist": "",
+      "key": "Am",
+      "link": "",
+      "tags": [],
+      "rawText": "|       Am |             F\nLlegó el tiempo, llegó la hora\nG            Am\nDe adorar al rey\n|       Am |                  F\nEste es el tiempo, esta es la hora\nG            Am\nDe adorar al rey\n      Dm          C\nY su iglesia se levanta\nG              Am\nPara adorar al rey\n    Dm              C\nCelebrando con gran gozo\n   F     Dm    E\nEl rey está aquí",
+      "voiceNotes": "",
+      "activeVersionId": "1786220404912-version-0",
+      "versions": [
+        {
+          "id": "1786220404912-version-0",
+          "title": "MSM",
+          "key": "Am",
+          "rawText": "|       Am |             F\nLlegó el tiempo, llegó la hora\nG            Am\nDe adorar al rey\n|       Am |                  F\nEste es el tiempo, esta es la hora\nG            Am\nDe adorar al rey\n      Dm          C\nY su iglesia se levanta\nG              Am\nPara adorar al rey\n    Dm              C\nCelebrando con gran gozo\n   F     Dm    E\nEl rey está aquí",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1786220551680",
+      "title": "Fiesta",
+      "artist": "",
+      "key": "Am",
+      "link": "",
+      "tags": [],
+      "rawText": "Am\nLo que se canta en el Cielo\n   Dm\nCantamos en la Tierra\n          G            G\nAl que se adora en el Cielo\n   Em\nAdoramos en la Tierra\n\n   F  \nAl Santo (Santo)\n E\nDigno (digno)\n       Dm         C\nAl Cordero (al Cordero)\n     E\nQue vive para siempre, hacemos\nAm\nFiesta\n                Dm\nHoy hacemos una fiesta\nG \nUnidos, hoy danzamos\n                      E   F   E\nCon gozo, celebramos, uoh, uoh-oh-oh\n\nAm\nFiesta\n                Dm    \nHoy hacemos una fiesta\n   G            \nEn la tierra, cantamos\n                  E    F    E\nJuntos, gritamos, uoh, uoh-oh-oh",
+      "voiceNotes": "",
+      "activeVersionId": "1786220551680-version-0",
+      "versions": [
+        {
+          "id": "1786220551680-version-0",
+          "title": "MSM",
+          "key": "Am",
+          "rawText": "Am\nLo que se canta en el Cielo\n   Dm\nCantamos en la Tierra\n          G            G\nAl que se adora en el Cielo\n   Em\nAdoramos en la Tierra\n\n   F  \nAl Santo (Santo)\n E\nDigno (digno)\n       Dm         C\nAl Cordero (al Cordero)\n     E\nQue vive para siempre, hacemos\nAm\nFiesta\n                Dm\nHoy hacemos una fiesta\nG \nUnidos, hoy danzamos\n                      E   F   E\nCon gozo, celebramos, uoh, uoh-oh-oh\n\nAm\nFiesta\n                Dm    \nHoy hacemos una fiesta\n   G            \nEn la tierra, cantamos\n                  E    F    E\nJuntos, gritamos, uoh, uoh-oh-oh",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1786221329672",
+      "title": "Jehová Guibbor (A la presencia de Jehová)",
+      "artist": "",
+      "key": "Am",
+      "link": "",
+      "tags": [],
+      "rawText": "Am  G  F  E\n\nAm                    G\nA la presencia de Jehová tiembla la tierra\n                    E   F     E\nA la presencia del Dios de Jacob\n\n  E              F\nQué Tu viste oh mar que huiste\n   Dm                          E\nTú oh Jordán que te volviste atrás\n    E                F\nÉl convirtió la peña en estanque de agua\n   Dm             E\nDe agua, de agua viva\n\nE                 F\nY ahora salta, y ahora salta\n  Dm                  E\nY ahora salta para tu Dios\n\n//Danza, gira, grita, corre//",
+      "voiceNotes": "",
+      "activeVersionId": "1786221329672-version-0",
+      "versions": [
+        {
+          "id": "1786221329672-version-0",
+          "title": "Ebenezer",
+          "key": "Am",
+          "rawText": "Am  G  F  E\n\nAm                    G\nA la presencia de Jehová tiembla la tierra\n                    E   F     E\nA la presencia del Dios de Jacob\n\n  E              F\nQué Tu viste oh mar que huiste\n   Dm                          E\nTú oh Jordán que te volviste atrás\n    E                F\nÉl convirtió la peña en estanque de agua\n   Dm             E\nDe agua, de agua viva\n\nE                 F\nY ahora salta, y ahora salta\n  Dm                  E\nY ahora salta para tu Dios\n\n//Danza, gira, grita, corre//",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1786221444087",
+      "title": "Arrojan Coronas",
+      "artist": "",
+      "key": "Dm",
+      "link": "",
+      "tags": [],
+      "rawText": "Intro: Dm      Dm    Dm   A7\n\n                         Dm    C\nArrojan coronas delante de Jehová\n            A                         Dm7         \nEl Rey está sentado, reinando en majestad\n\n        Gm            F\nPor los siglos de los siglos\n     A7            Dm7\nVivirá el Gran Yo Soy\n         Gm             F\nCon los veinticuatro ancianos\n      A             A7\nLevantamos nuestra voz\n\nDm7\nSolo tú eres Digno, recibe la Gloría\n                                       A7\nHonra, el Poder y la Alabanza es para Él. \n\nDm   Dm   Dm   A7",
+      "voiceNotes": "",
+      "activeVersionId": "1786221444087-version-0",
+      "versions": [
+        {
+          "id": "1786221444087-version-0",
+          "title": "Josh Chavarria",
+          "key": "Dm",
+          "rawText": "Intro: Dm      Dm    Dm   A7\n\n                         Dm    C\nArrojan coronas delante de Jehová\n            A                         Dm7         \nEl Rey está sentado, reinando en majestad\n\n        Gm            F\nPor los siglos de los siglos\n     A7            Dm7\nVivirá el Gran Yo Soy\n         Gm             F\nCon los veinticuatro ancianos\n      A             A7\nLevantamos nuestra voz\n\nDm7\nSolo tú eres Digno, recibe la Gloría\n                                       A7\nHonra, el Poder y la Alabanza es para Él. \n\nDm   Dm   Dm   A7",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1786221561168",
+      "title": "Abrió el Mar",
+      "artist": "",
+      "key": "Am",
+      "link": "",
+      "tags": [],
+      "rawText": "Am\n  Abrió el mar\n  F\n  Abrió el Jordán\n  G                      Am\n  Y a sus enemigos destruyó",
+      "voiceNotes": "",
+      "activeVersionId": "1786221561168-version-0",
+      "versions": [
+        {
+          "id": "1786221561168-version-0",
+          "title": "Ebenezer",
+          "key": "Am",
+          "rawText": "Am\n  Abrió el mar\n  F\n  Abrió el Jordán\n  G                      Am\n  Y a sus enemigos destruyó",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1786222462591",
+      "title": "Cristo no está muerto",
+      "artist": "",
+      "key": "Cm",
+      "link": "",
+      "tags": [],
+      "rawText": "Cm7\nCRISTO NO ESTÁ MUERTO, \nESTÁ VIVO\n    Fm7\nCRISTO NO ESTÁ MUERTO, \nESTÁ VIVO\n   Cm\nCRISTO NO ESTÁ MUERTO, \nESTÁ VIVO\n   Cm\nLO SIENTO EN MIS MANOS\n    Cm\nLO SIENTO EN MIS PIES\n   Cm\nLO SIENTO EN TODO MI SER",
+      "voiceNotes": "",
+      "activeVersionId": "1786222462591-version-0",
+      "versions": [
+        {
+          "id": "1786222462591-version-0",
+          "title": "Juan C. Alvarado",
+          "key": "Cm",
+          "rawText": "Cm7\nCRISTO NO ESTÁ MUERTO, \nESTÁ VIVO\n    Fm7\nCRISTO NO ESTÁ MUERTO, \nESTÁ VIVO\n   Cm\nCRISTO NO ESTÁ MUERTO, \nESTÁ VIVO\n   Cm\nLO SIENTO EN MIS MANOS\n    Cm\nLO SIENTO EN MIS PIES\n   Cm\nLO SIENTO EN TODO MI SER",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1786222764582",
+      "title": "Libertad",
+      "artist": "",
+      "key": "Cm",
+      "link": "",
+      "tags": [],
+      "rawText": "Cm\n// Cuando los enemigos \nNos tenían acorralados\n       F7                                      \nY no sabíamos No sabíamos \n    Cm\nqué hacer (aja, que pasó)\n    G          F7        \nFue allí cuando vino \n      Eb          F7el poder del más grande // \n                  Cm// Y el mar se abrió \nY el pueblo del Señor cruzó\n               F7                   \nY el mar se abrió \n                          Cm\nY a todo su pueblo el liberto\nG             F7                                     \nNube de día, Fuego de noche \nEb                G  F7\nDios está con su pueblo//\n\n    C#         A#\n// LIBERTAD LIBERTAD //",
+      "voiceNotes": "",
+      "activeVersionId": "1786222764582-version-0",
+      "versions": [
+        {
+          "id": "1786222764582-version-0",
+          "title": "CCIN",
+          "key": "Cm",
+          "rawText": "Cm\n// Cuando los enemigos \nNos tenían acorralados\n       F7                                      \nY no sabíamos No sabíamos \n    Cm\nqué hacer (aja, que pasó)\n    G          F7        \nFue allí cuando vino \n      Eb          F7el poder del más grande // \n                  Cm// Y el mar se abrió \nY el pueblo del Señor cruzó\n               F7                   \nY el mar se abrió \n                          Cm\nY a todo su pueblo el liberto\nG             F7                                     \nNube de día, Fuego de noche \nEb                G  F7\nDios está con su pueblo//\n\n    C#         A#\n// LIBERTAD LIBERTAD //",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1786222839591",
+      "title": "Bueno es Dios",
+      "artist": "",
+      "key": "G#",
+      "link": "",
+      "tags": [],
+      "rawText": "Ab\nBueno es Dios\n      Eb\nBueno es Dios\n      Bb\nBueno es Dios\n      Cm\nBueno es Dios",
+      "voiceNotes": "",
+      "activeVersionId": "1786222839591-version-0",
+      "versions": [
+        {
+          "id": "1786222839591-version-0",
+          "title": "Ebenezer",
+          "key": "G#",
+          "rawText": "Ab\nBueno es Dios\n      Eb\nBueno es Dios\n      Bb\nBueno es Dios\n      Cm\nBueno es Dios",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1787193461730",
+      "title": "VAMOS ESCALANDO PELDAÑOS (YA VIENE LA RECOMPENSA)",
+      "artist": "",
+      "key": "Em",
+      "link": "",
+      "tags": [],
+      "rawText": "Em\n//Vamos escalando peldaños\n                  B\nVamos Llevando la cruz\nSigamos el camino angosto\n                      Em\nCon Cristo es mucho mejor//\nE                    Am\n//Ya viene la recompensa\nD              G\nYa no voy a llorar\nEm                B\nTengo a Cristo en mi vida\n                Em\nPor eso puedo escalar//",
+      "voiceNotes": "",
+      "activeVersionId": "1787193461730-version-0",
+      "versions": [
+        {
+          "id": "1787193461730-version-0",
+          "title": "YA VIENE LA RECOMPENSA",
+          "key": "Em",
+          "rawText": "Em\n//Vamos escalando peldaños\n                  B\nVamos Llevando la cruz\nSigamos el camino angosto\n                      Em\nCon Cristo es mucho mejor//\nE                    Am\n//Ya viene la recompensa\nD              G\nYa no voy a llorar\nEm                B\nTengo a Cristo en mi vida\n                Em\nPor eso puedo escalar//",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1787193643210",
+      "title": "AGNUS DEI",
+      "artist": "",
+      "key": "D",
+      "link": "",
+      "tags": [],
+      "rawText": "A\naleluya\n               D\nAleluya, aleluya\n                      A5\nReinas Tú, poderoso Dios\n\n               D\nAleluya, aleluya\n                      A5\nReinas Tú, poderoso Dios\n      D\nAleluya\n\n    A5\nSanto, Santo\n      D/A  A       D  E       \nEl Señor Dios podero_so\n            D              \nDigno eres Tú, digno eres Tú\n\n            A5  E  A5  \nTú eres Santo, Santo\n      D/A  A       D  E           \nEl Señor Dios podero_so\n\n            D              \nDigno eres Tú, digno eres Tú\n                        \nDigno eres Tú, santo eres Tú\n            D              \nDigno eres Tú, santo eres Tú",
+      "voiceNotes": "",
+      "activeVersionId": "1787193643210-version-0",
+      "versions": [
+        {
+          "id": "1787193643210-version-0",
+          "title": "Original",
+          "key": "D",
+          "rawText": "A\naleluya\n               D\nAleluya, aleluya\n                      A5\nReinas Tú, poderoso Dios\n\n               D\nAleluya, aleluya\n                      A5\nReinas Tú, poderoso Dios\n      D\nAleluya\n\n    A5\nSanto, Santo\n      D/A  A       D  E       \nEl Señor Dios podero_so\n            D              \nDigno eres Tú, digno eres Tú\n\n            A5  E  A5  \nTú eres Santo, Santo\n      D/A  A       D  E           \nEl Señor Dios podero_so\n\n            D              \nDigno eres Tú, digno eres Tú\n                        \nDigno eres Tú, santo eres Tú\n            D              \nDigno eres Tú, santo eres Tú",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1787279294507",
+      "title": "PORQUE GRANDE GRANDE ES JEHOVÁ (DEMOS CON PANDEROS)",
+      "artist": "",
+      "key": "Em",
+      "link": "",
+      "tags": [],
+      "rawText": "Em7                 \nPorque grande, \n       B7\ngrande es Jehová\n                          \nPorque grande,\n           Em7\ngrande es Jehová\n                         \nPorque grande, \n            B7\ngrande es Jehová\n                   \nPorque grande,\n          F#sus7\ngrande es Jehová\n          Am7   D      \n//Por eso su pueblo \n   G   D/Gb   Em7\nle alaba con panderos\n  Am7       B7      Em7\nLe alaba con danzas también//\nEm7\nDemos con panderos alabanzas a Jehová\n                       E-F# \nDemos con panderos alabanzas\nG-G# \na Jehová\nAm7           Em7      B7        \nDemos con las danzas alabanzas \n  Em7\na Jehová\nAm7           Em7      B7        \nDemos con las danzas alabanzas\n  Em7\na Jehová",
+      "voiceNotes": "",
+      "activeVersionId": "1787279294507-version-0",
+      "versions": [
+        {
+          "id": "1787279294507-version-0",
+          "title": "Original",
+          "key": "Em",
+          "rawText": "Em7                 \nPorque grande, \n       B7\ngrande es Jehová\n                          \nPorque grande,\n           Em7\ngrande es Jehová\n                         \nPorque grande, \n            B7\ngrande es Jehová\n                   \nPorque grande,\n          F#sus7\ngrande es Jehová\n          Am7   D      \n//Por eso su pueblo \n   G   D/Gb   Em7\nle alaba con panderos\n  Am7       B7      Em7\nLe alaba con danzas también//\nEm7\nDemos con panderos alabanzas a Jehová\n                       E-F# \nDemos con panderos alabanzas\nG-G# \na Jehová\nAm7           Em7      B7        \nDemos con las danzas alabanzas \n  Em7\na Jehová\nAm7           Em7      B7        \nDemos con las danzas alabanzas\n  Em7\na Jehová",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1787326079630",
+      "title": "ENTONCES LA IGLESIA SE ALEGRARÁ EN LA DANZA",
+      "artist": "",
+      "key": "Em",
+      "link": "",
+      "tags": [],
+      "rawText": "Em\nEntonces la iglesia se alegrará\n\nen la danza\n       Am                     \nLos jóvenes y ancianos\n      B\njuntamente\nAm                     Em\nCambiaré su lloro en gozo\n   B          E F#m G G#\nY los alegraré en Él\nAm     D             G   Em\nCambiaré su lloro en gozo\n           B                       \nMe alegraré (me alegraré) \n         Em\nen el Señor",
+      "voiceNotes": "",
+      "activeVersionId": "1787326079630-version-0",
+      "versions": [
+        {
+          "id": "1787326079630-version-0",
+          "title": "Original",
+          "key": "Em",
+          "rawText": "Em\nEntonces la iglesia se alegrará\n\nen la danza\n       Am                     \nLos jóvenes y ancianos\n      B\njuntamente\nAm                     Em\nCambiaré su lloro en gozo\n   B          E F#m G G#\nY los alegraré en Él\nAm     D             G   Em\nCambiaré su lloro en gozo\n           B                       \nMe alegraré (me alegraré) \n         Em\nen el Señor",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1787326258783",
+      "title": "ERES DIGNO DE ADORAR",
+      "artist": "",
+      "key": "D",
+      "link": "",
+      "tags": [],
+      "rawText": "[Intro] \nG  A  G  A\nBm  A  G  A  D\n\n   G          A\n// Ángeles y santos\n    G            A\nSe postran ante Ti\n G            A             \nLos ancianos rinden \n         Bm7  A\nsus coronas\nG       A       D\nAnte tí oh Gran Señor//\n\n                  D\nEres digno de adorar\n                     A\nTú eres digno de adorar\n               Em\nTodo fluye de Ti\n                A\nY todo vuelve a Ti\n             D\nTuya es la Gloria\n\nD           \nDía y noche noche y día \n   F#m     Bm    G\nEl incienso subirá",
+      "voiceNotes": "",
+      "activeVersionId": "1787326258783-version-0",
+      "versions": [
+        {
+          "id": "1787326258783-version-0",
+          "title": "Original",
+          "key": "D",
+          "rawText": "[Intro] \nG  A  G  A\nBm  A  G  A  D\n\n   G          A\n// Ángeles y santos\n    G            A\nSe postran ante Ti\n G            A             \nLos ancianos rinden \n         Bm7  A\nsus coronas\nG       A       D\nAnte tí oh Gran Señor//\n\n                  D\nEres digno de adorar\n                     A\nTú eres digno de adorar\n               Em\nTodo fluye de Ti\n                A\nY todo vuelve a Ti\n             D\nTuya es la Gloria\n\nD           \nDía y noche noche y día \n   F#m     Bm    G\nEl incienso subirá",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1787326486655",
+      "title": "LAS RIQUEZAS Y LA GLORIA",
+      "artist": "",
+      "key": "Em",
+      "link": "",
+      "tags": [],
+      "rawText": "Em                                          \nLas riquezas y la gloria \n            B \nproceden de ti  y\n                Em\n sobre todo dominas\n   Em                                        \nen tu mano está la fuerza \n    B\nel poder  y el\n  Em\nhacer //\nEm                                    \nEs tuya Jehová  la magnificencia\n    D  \nel poder\n               Em\nla gloria y la victoria //\n    Em                    G            \nlas cosas que hay en los cielos \n Am    \n  y en la \n            B  (Em)\ntierra son tuyas//",
+      "voiceNotes": "",
+      "activeVersionId": "1787326486655-version-0",
+      "versions": [
+        {
+          "id": "1787326486655-version-0",
+          "title": "Original",
+          "key": "Em",
+          "rawText": "Em                                          \nLas riquezas y la gloria \n            B \nproceden de ti  y\n                Em\n sobre todo dominas\n   Em                                        \nen tu mano está la fuerza \n    B\nel poder  y el\n  Em\nhacer //\nEm                                    \nEs tuya Jehová  la magnificencia\n    D  \nel poder\n               Em\nla gloria y la victoria //\n    Em                    G            \nlas cosas que hay en los cielos \n Am    \n  y en la \n            B  (Em)\ntierra son tuyas//",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1787326616912",
+      "title": "YO HARÉ UNA FIESTA",
+      "artist": "",
+      "key": "Em",
+      "link": "",
+      "tags": [],
+      "rawText": "Em\nPor lo grande de su nombre\n        D     B       Em  B7\npor la fuerza de su poder\n        Em\npor lo grande de su nombre\n        D       B      Em E7\nyo por siempre le alabaré\n     Am          Em                \nCantare de sus Hazañas, \nB           Em\n de su gran  poder\n        Am               \nanunciare su nombre con \n Em \ngloria\n        B                      \ny en su nombre una fiesta \n     B\nyo haré\nEm                  C\nYo hare una fiesta, Yo haré \nuna fiesta\n     D         Em D C D\nen honor a Jehova\nEm                 C\nSonare el Pandero, sonare\n trompeta\n     D         Em\nen honor a Jehová //",
+      "voiceNotes": "",
+      "activeVersionId": "1787326616912-version-0",
+      "versions": [
+        {
+          "id": "1787326616912-version-0",
+          "title": "Original",
+          "key": "Em",
+          "rawText": "Em\nPor lo grande de su nombre\n        D     B       Em  B7\npor la fuerza de su poder\n        Em\npor lo grande de su nombre\n        D       B      Em E7\nyo por siempre le alabaré\n     Am          Em                \nCantare de sus Hazañas, \nB           Em\n de su gran  poder\n        Am               \nanunciare su nombre con \n Em \ngloria\n        B                      \ny en su nombre una fiesta \n     B\nyo haré\nEm                  C\nYo hare una fiesta, Yo haré \nuna fiesta\n     D         Em D C D\nen honor a Jehova\nEm                 C\nSonare el Pandero, sonare\n trompeta\n     D         Em\nen honor a Jehová //",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1787326739016",
+      "title": "YO ME ALEGRÉ CON LOS QUE ME DECÍAN",
+      "artist": "",
+      "key": "Em",
+      "link": "",
+      "tags": [],
+      "rawText": "Intro: Em  B  Em  B  Em\n\n     Em               B\n//Yo me alegré con los que \n\nme decían\nB               Em\nA la casa de Jehová iremos//\n\nAm          Em\nYo iré, Tú irás\n    B          Em\nA la casa de Jehová Yo Iré \n\nAm          Em\nYo iré, Tú irás\n    B          Em\nA la casa de Jehová iré",
+      "voiceNotes": "",
+      "activeVersionId": "1787326739016-version-0",
+      "versions": [
+        {
+          "id": "1787326739016-version-0",
+          "title": "Original",
+          "key": "Em",
+          "rawText": "Intro: Em  B  Em  B  Em\n\n     Em               B\n//Yo me alegré con los que \n\nme decían\nB               Em\nA la casa de Jehová iremos//\n\nAm          Em\nYo iré, Tú irás\n    B          Em\nA la casa de Jehová Yo Iré \n\nAm          Em\nYo iré, Tú irás\n    B          Em\nA la casa de Jehová iré",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1787326859584",
+      "title": "EN UNIDAD (GÉNESIS CAMPOS)",
+      "artist": "",
+      "key": "Em",
+      "link": "",
+      "tags": [],
+      "rawText": "Intro]\nEm B7 Em B7 Em Am B7 Em\n \n                      Em\n//En Unidad Entre Hermanos \n\nQuiero Estar\n                             \nPara Sentir Ese \n            Am\nAbrazo De Calor\n                             \nEse Aceite Que Alivia \n       Am\nEl Corazón\n    C           B7          \nY Ese Amor Que Solo \nEm\n Viene Del Señor //\n                     \n      Am\nComo Roció Que \n\nBesa La Tierra\n            Em\nAsí Es La Unión\n\n Que Llena\nAm         B7            \nY Que Transforma \n        Em\nEl Interior\n             Am\nAmaos Unos A Los Otros\n            Em\nComo Cristo Nos Amó\n      Am            B7              \nEsto Agrada Y Complace \n\nA Nuestro\n   Em\nDios",
+      "voiceNotes": "",
+      "activeVersionId": "1787326859584-version-0",
+      "versions": [
+        {
+          "id": "1787326859584-version-0",
+          "title": "Original",
+          "key": "Em",
+          "rawText": "Intro]\nEm B7 Em B7 Em Am B7 Em\n \n                      Em\n//En Unidad Entre Hermanos \n\nQuiero Estar\n                             \nPara Sentir Ese \n            Am\nAbrazo De Calor\n                             \nEse Aceite Que Alivia \n       Am\nEl Corazón\n    C           B7          \nY Ese Amor Que Solo \nEm\n Viene Del Señor //\n                     \n      Am\nComo Roció Que \n\nBesa La Tierra\n            Em\nAsí Es La Unión\n\n Que Llena\nAm         B7            \nY Que Transforma \n        Em\nEl Interior\n             Am\nAmaos Unos A Los Otros\n            Em\nComo Cristo Nos Amó\n      Am            B7              \nEsto Agrada Y Complace \n\nA Nuestro\n   Em\nDios",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1787326928672",
+      "title": "AQUÍ HAY LIBERTAD (EBENEZER)",
+      "artist": "",
+      "key": "Cm",
+      "link": "",
+      "tags": [],
+      "rawText": "Intro:\nBb-Cm-F-G- Cm-G-Cm-G-Cm \nBb-Ab-G-Cm - Bb - Ab -\nG - Fm - Gm - Cm\n\nCm                   Eb\nCantamos al Señor, como \n\ncongregación\n  Bb           G             \nQue hermoso es habitar\n       Cm\nen unidad\n Bb            Cm\nLevantamos hoy bandera\n  Bb             Cm\nResuenan las trompetas\n     Ab               Gm\nSu espíritu ya descendió\n     Ab            Eb\nCon alegría celebraremos\n      Ab              G         \nÉl ha cambiado la tristeza \n      Cm\nen alabanza\n            Ab          \nHa puesto aceite \n       Cm\ny vino nuevo\n     Ab     Fm                 \nY su gloria llena\n      G   Gm\neste lugar\n\n Ab    Bb   Cm",
+      "voiceNotes": "",
+      "activeVersionId": "1787326928672-version-0",
+      "versions": [
+        {
+          "id": "1787326928672-version-0",
+          "title": "Original",
+          "key": "Cm",
+          "rawText": "Intro:\nBb-Cm-F-G- Cm-G-Cm-G-Cm \nBb-Ab-G-Cm - Bb - Ab -\nG - Fm - Gm - Cm\n\nCm                   Eb\nCantamos al Señor, como \n\ncongregación\n  Bb           G             \nQue hermoso es habitar\n       Cm\nen unidad\n Bb            Cm\nLevantamos hoy bandera\n  Bb             Cm\nResuenan las trompetas\n     Ab               Gm\nSu espíritu ya descendió\n     Ab            Eb\nCon alegría celebraremos\n      Ab              G         \nÉl ha cambiado la tristeza \n      Cm\nen alabanza\n            Ab          \nHa puesto aceite \n       Cm\ny vino nuevo\n     Ab     Fm                 \nY su gloria llena\n      G   Gm\neste lugar\n\n Ab    Bb   Cm",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1787327056928",
+      "title": "DELEITATE EN EL SEÑOR (GÉNESIS CAMPOS)",
+      "artist": "",
+      "key": "Em",
+      "link": "",
+      "tags": [],
+      "rawText": "Intro:  Em A Bm A Bm\n\n   Em            A\n // Deléitate en el Señor\n\n  Bm    A       Bm\n  Y en    su Presencia\n\n  Em       A   Bm      A   \n  Y El Concederá los deseos\nBm\nde tu corazón//\n  Em    A    Bm    A    \n//Larai Larai Larai \n Em    F# Bm\nlai -lai -lai//",
+      "voiceNotes": "",
+      "activeVersionId": "1787327056928-version-0",
+      "versions": [
+        {
+          "id": "1787327056928-version-0",
+          "title": "Original",
+          "key": "Em",
+          "rawText": "Intro:  Em A Bm A Bm\n\n   Em            A\n // Deléitate en el Señor\n\n  Bm    A       Bm\n  Y en    su Presencia\n\n  Em       A   Bm      A   \n  Y El Concederá los deseos\nBm\nde tu corazón//\n  Em    A    Bm    A    \n//Larai Larai Larai \n Em    F# Bm\nlai -lai -lai//",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1787327188400",
+      "title": "VOZ DE JEHOVÁ (BARRO DE DIOS)",
+      "artist": "",
+      "key": "Gm",
+      "link": "",
+      "tags": [],
+      "rawText": "Intro: // Gm Eb Cm D // \n\n   Gm     Gm        \n//Resuena su voz, \n  Eb -F - Gm\n  Je -ho- vá// \n\ninterludio:  Trompetas\n     Gm -     Eb-F-Gm\n\n            Cm               \n///Si el enemigo viene \n      D \ncomo río \n           Eb        F           \nSé que Jehová su bandera \n\n       Gm \nlevantará /// \n       Cm                 D \nSi el enemigo viene como rio \n           Eb      F             \nSé que Jehová, Jehová \n            Gm \nResuena su Voz \n\n     Gm \n /// Voz  de  Jehová \n\ncon Potencia \n Eb         F      Gm \nVoz de Jehová con Vigor/// \n\nCm                     D        \nVoz de Jehová que quebranta \n  Eb  -       D \ny hace   temblar",
+      "voiceNotes": "",
+      "activeVersionId": "1787327188400-version-0",
+      "versions": [
+        {
+          "id": "1787327188400-version-0",
+          "title": "Original",
+          "key": "Gm",
+          "rawText": "Intro: // Gm Eb Cm D // \n\n   Gm     Gm        \n//Resuena su voz, \n  Eb -F - Gm\n  Je -ho- vá// \n\ninterludio:  Trompetas\n     Gm -     Eb-F-Gm\n\n            Cm               \n///Si el enemigo viene \n      D \ncomo río \n           Eb        F           \nSé que Jehová su bandera \n\n       Gm \nlevantará /// \n       Cm                 D \nSi el enemigo viene como rio \n           Eb      F             \nSé que Jehová, Jehová \n            Gm \nResuena su Voz \n\n     Gm \n /// Voz  de  Jehová \n\ncon Potencia \n Eb         F      Gm \nVoz de Jehová con Vigor/// \n\nCm                     D        \nVoz de Jehová que quebranta \n  Eb  -       D \ny hace   temblar",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1787327264248",
+      "title": "QUIÉN ES COMO TÚ OH DIOS",
+      "artist": "",
+      "key": "Am",
+      "link": "",
+      "tags": [],
+      "rawText": "F                     \n//Volverá a compadecerse\n\n de nosotros\n        G\nAplastará nuestras\n\niniquidades\n        Dm                        \nY arrojará a lo más \n              F\nprofundo del mar\n                  G\nTodos nuestros pecados//\n\n///Am                                      \n    Panpanpanpanpanpanpan\n G\nparararar///\n\n   Am                                  \n//¿Quien es como tú \n\noh Dios que perdonas\n      G\n la iniquidad?\n     Am                                      \nY olvidas el pecado de \n                       \ntodo aquel que \n        G\nse arrepiente//\n\n       F\n//Volverá a compadecerse\n\n de nosotros\n        G\nAplastará nuestras\n\niniquidades\n        Dm                        \nY arrojará a lo más \n              F\nprofundo del mar\n                  G\nTodos nuestros pecados//\n \n                Am-G- F\n//Mis ojos lo vera-a- án\n               G\nMis ojos lo verán//\n              Am-G- F\nMis ojos lo vera-a-án\n              G\nMis ojos lo verán\n\n///Am                                      \n Panpanpanpanpanpanpan\nG\nparararar///",
+      "voiceNotes": "",
+      "activeVersionId": "1787327264248-version-0",
+      "versions": [
+        {
+          "id": "1787327264248-version-0",
+          "title": "Original",
+          "key": "Am",
+          "rawText": "F                     \n//Volverá a compadecerse\n\n de nosotros\n        G\nAplastará nuestras\n\niniquidades\n        Dm                        \nY arrojará a lo más \n              F\nprofundo del mar\n                  G\nTodos nuestros pecados//\n\n///Am                                      \n    Panpanpanpanpanpanpan\n G\nparararar///\n\n   Am                                  \n//¿Quien es como tú \n\noh Dios que perdonas\n      G\n la iniquidad?\n     Am                                      \nY olvidas el pecado de \n                       \ntodo aquel que \n        G\nse arrepiente//\n\n       F\n//Volverá a compadecerse\n\n de nosotros\n        G\nAplastará nuestras\n\niniquidades\n        Dm                        \nY arrojará a lo más \n              F\nprofundo del mar\n                  G\nTodos nuestros pecados//\n \n                Am-G- F\n//Mis ojos lo vera-a- án\n               G\nMis ojos lo verán//\n              Am-G- F\nMis ojos lo vera-a-án\n              G\nMis ojos lo verán\n\n///Am                                      \n Panpanpanpanpanpanpan\nG\nparararar///",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1787327416912",
+      "title": "DIOS EL MÁS GRANDE Y DIGNO DE ADORAR (JUAN CARLOS ALVARADO)",
+      "artist": "",
+      "key": "A",
+      "link": "",
+      "tags": [],
+      "rawText": "A            D        \nDios el más grande \n   E          A\ny digno de alabar\n   D             E          \nYo vengo a tu Presencia \n   F#m7\na adorar\n    A                      \nYo doblo mis rodillas \n      D  E\nante ti\nA            D        \nDios el más grande \n   E          A\ny digno de alabar\n     D         E      \nMe ayuda al enemigo \n   F#m7\nderrotar\n    A                   \nEl Gozo de mi vida \n     D  E\neres tu\n \n  A                         \nSeñor yo quiero \n            C#m7\nlevantar mi voz\n D                               \nQuiero agradecerte \n       Bm7\npor tu obra en mi\nE4   E\nvida\n  A                      \nSeñor confío en \n           C#m7\ntu grande amor\n\nD            A/C#       \nSólo tú eres Dios \n        Bm7 \neterno solo tú \n    E          A\ntransformas mi ser",
+      "voiceNotes": "",
+      "activeVersionId": "1787327416912-version-0",
+      "versions": [
+        {
+          "id": "1787327416912-version-0",
+          "title": "Original",
+          "key": "A",
+          "rawText": "A            D        \nDios el más grande \n   E          A\ny digno de alabar\n   D             E          \nYo vengo a tu Presencia \n   F#m7\na adorar\n    A                      \nYo doblo mis rodillas \n      D  E\nante ti\nA            D        \nDios el más grande \n   E          A\ny digno de alabar\n     D         E      \nMe ayuda al enemigo \n   F#m7\nderrotar\n    A                   \nEl Gozo de mi vida \n     D  E\neres tu\n \n  A                         \nSeñor yo quiero \n            C#m7\nlevantar mi voz\n D                               \nQuiero agradecerte \n       Bm7\npor tu obra en mi\nE4   E\nvida\n  A                      \nSeñor confío en \n           C#m7\ntu grande amor\n\nD            A/C#       \nSólo tú eres Dios \n        Bm7 \neterno solo tú \n    E          A\ntransformas mi ser",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1787327675401",
+      "title": "AL ESTAR AQUÍ (DANILO MONTERO)",
+      "artist": "",
+      "key": "A",
+      "link": "",
+      "tags": [],
+      "rawText": "A                  C#m               \nAl estar en la presencia \n            F#m\nde Tu divinidad\n            D                   \ny al contemplar \n        Bm\nla hermosura de Tu \n E\nsantidad\n      A         C#m         \nmi espíritu se alegra \n        F#m\nen Tu majestad\n     D               \nte adoro a Ti,   \n     Bm    E\nte adoro a Ti\n        A          C#m          \nCuando veo la grandeza \n       F#m\nde tu dulce amor\n       D         Bm          \ny compruebo la pureza \n         E\nde Tu corazón\n      A         C#m           \nmi espíritu se alegra \n         F#m\nen Tu majestad\n    D                 \nte adoro a Ti,   \n     B     E\nte adoro a Ti\n\n       A           C#m              \nY al estar aquí, delante de \n       F#m\nTi te adoraré   \n         D          \npostrado ante Ti,\n   Bm          E\nmi corazón te adora \n\noh Dios\n           A   \ny siempre quiero estar \n\npara adorar\n  D             Dm\ny contemplar Tu santidad\n  A            E              \nte adoro a Ti Señor, te \nD         A\n adoro a Ti",
+      "voiceNotes": "",
+      "activeVersionId": "1787327675401-version-0",
+      "versions": [
+        {
+          "id": "1787327675401-version-0",
+          "title": "Original",
+          "key": "A",
+          "rawText": "A                  C#m               \nAl estar en la presencia \n            F#m\nde Tu divinidad\n            D                   \ny al contemplar \n        Bm\nla hermosura de Tu \n E\nsantidad\n      A         C#m         \nmi espíritu se alegra \n        F#m\nen Tu majestad\n     D               \nte adoro a Ti,   \n     Bm    E\nte adoro a Ti\n        A          C#m          \nCuando veo la grandeza \n       F#m\nde tu dulce amor\n       D         Bm          \ny compruebo la pureza \n         E\nde Tu corazón\n      A         C#m           \nmi espíritu se alegra \n         F#m\nen Tu majestad\n    D                 \nte adoro a Ti,   \n     B     E\nte adoro a Ti\n\n       A           C#m              \nY al estar aquí, delante de \n       F#m\nTi te adoraré   \n         D          \npostrado ante Ti,\n   Bm          E\nmi corazón te adora \n\noh Dios\n           A   \ny siempre quiero estar \n\npara adorar\n  D             Dm\ny contemplar Tu santidad\n  A            E              \nte adoro a Ti Señor, te \nD         A\n adoro a Ti",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1788044767579",
+      "title": "Que dulce es estar en tú presencia (Santo)",
+      "artist": "",
+      "key": "C",
+      "link": "",
+      "tags": [],
+      "rawText": "C                \n//Qué dulce es \n  Em7\nestar en tu\nF\nPresencia\nC                      \nContemplando \n          Em7\nla hermosura\nF\nDe tu majestad\nEm7             \nY reconociendo \n  Am7\nque tú\nG\nEres señor\nDm\nTodopoderoso\n\ny el gran\nG\n¡Yo soy!//\n\nF  Em  F Em Am\n// Santo,   San - to\nF       C      F\nMi corazón se une a la\nG              C\nMelodía angelical//",
+      "voiceNotes": "",
+      "activeVersionId": "1788044767579-version-0",
+      "versions": [
+        {
+          "id": "1788044767579-version-0",
+          "title": "Santo M. Witt",
+          "key": "C",
+          "rawText": "C                \n//Qué dulce es \n  Em7\nestar en tu\nF\nPresencia\nC                      \nContemplando \n          Em7\nla hermosura\nF\nDe tu majestad\nEm7             \nY reconociendo \n  Am7\nque tú\nG\nEres señor\nDm\nTodopoderoso\n\ny el gran\nG\n¡Yo soy!//\n\nF  Em  F Em Am\n// Santo,   San - to\nF       C      F\nMi corazón se une a la\nG              C\nMelodía angelical//",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1788540883184",
+      "title": "JESUCRISTO VOLVERÁ",
+      "artist": "",
+      "key": "Am",
+      "link": "",
+      "tags": [],
+      "rawText": "Am               C\nJESUCRISTO VOLVERA\nG\nEN AQUEL DÍA GLORIOSO\n  Am                 C\nEN LAS NUBES ÉL VENDRÁ\nG\nEL LO HA PROMETIDO\n       Am            C\nQUE UN DÍA ÉL REGRESARÁ\nG            Am\nY EL ME ARREBATARA",
+      "voiceNotes": "",
+      "activeVersionId": "1788540883184-version-0",
+      "versions": [
+        {
+          "id": "1788540883184-version-0",
+          "title": "Original",
+          "key": "Am",
+          "rawText": "Am               C\nJESUCRISTO VOLVERA\nG\nEN AQUEL DÍA GLORIOSO\n  Am                 C\nEN LAS NUBES ÉL VENDRÁ\nG\nEL LO HA PROMETIDO\n       Am            C\nQUE UN DÍA ÉL REGRESARÁ\nG            Am\nY EL ME ARREBATARA",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1788541549136",
+      "title": "VOY A PERDER LA COMPOSTURA",
+      "artist": "",
+      "key": "Am",
+      "link": "",
+      "tags": [],
+      "rawText": "Am         G     \nQuién lo diría \n    Dm    E\nque yo danzaría \nen tu casa Señor\n Am         G     \nQuién lo diría\n    Dm        E\nque yo abrazaría\ntu gloría Señor\n          Am  \nVoy a perder \na compostura \n           G  \ndelante de ti, \n         Dm\nvoy a cantar,\nVoy a danzar \nVoy a reír, \n       E\nyo lo hago solo para Ti\n          Am               \nVoy a perder la compostura\n           G\ndelante de ti, \n        Dm\nno me importa \nque me digan aleluya\n       E\nYo lo hago solo para Ti\n           Am      \nQue me importa \nque critiquen, \nque no entiendan, \nque me digan \n        G\nque soy loco\n   Dm     E\nSi yo lo hago \nsolo para Ti",
+      "voiceNotes": "",
+      "activeVersionId": "1788541549136-version-0",
+      "versions": [
+        {
+          "id": "1788541549136-version-0",
+          "title": "Original",
+          "key": "Am",
+          "rawText": "Am         G     \nQuién lo diría \n    Dm    E\nque yo danzaría \nen tu casa Señor\n Am         G     \nQuién lo diría\n    Dm        E\nque yo abrazaría\ntu gloría Señor\n          Am  \nVoy a perder \na compostura \n           G  \ndelante de ti, \n         Dm\nvoy a cantar,\nVoy a danzar \nVoy a reír, \n       E\nyo lo hago solo para Ti\n          Am               \nVoy a perder la compostura\n           G\ndelante de ti, \n        Dm\nno me importa \nque me digan aleluya\n       E\nYo lo hago solo para Ti\n           Am      \nQue me importa \nque critiquen, \nque no entiendan, \nque me digan \n        G\nque soy loco\n   Dm     E\nSi yo lo hago \nsolo para Ti",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1788541621152",
+      "title": "QUIEN LO DIRÍA (B. BUNSTER)",
+      "artist": "",
+      "key": "Am",
+      "link": "",
+      "tags": [],
+      "rawText": "Am         G     \nQuién lo diría \n    Dm    E\nque yo danzaría \n\nen tu casa Señor\n Am         G     \nQuién lo diría\n    Dm        E\nque yo abrazaría \n\ntu gloría Señor\n          Am  \nVoy a perder \n\na compostura \n           G  \ndelante de ti, \n         Dm\nvoy a cantar, \n             \nVoy a danzar \n\nVoy a reir, \n       E\nyo lo hago solo para Ti\n          Am               \nVoy a perder la compostura\n           G\ndelante de ti, \n        Dm\nno me importa \n\nque me digan aleluya\n       E\nYo lo hago solo para Ti\n           Am      \nQue me importa \n\nque critiquen, \n\nque no entiendan, \n\nque me digan \n        G\nque soy loco\n   Dm     E\nSi yo lo hago \n\nsolo para Ti",
+      "voiceNotes": "",
+      "activeVersionId": "1788541621152-version-0",
+      "versions": [
+        {
+          "id": "1788541621152-version-0",
+          "title": "Original",
+          "key": "Am",
+          "rawText": "Am         G     \nQuién lo diría \n    Dm    E\nque yo danzaría \n\nen tu casa Señor\n Am         G     \nQuién lo diría\n    Dm        E\nque yo abrazaría \n\ntu gloría Señor\n          Am  \nVoy a perder \n\na compostura \n           G  \ndelante de ti, \n         Dm\nvoy a cantar, \n             \nVoy a danzar \n\nVoy a reir, \n       E\nyo lo hago solo para Ti\n          Am               \nVoy a perder la compostura\n           G\ndelante de ti, \n        Dm\nno me importa \n\nque me digan aleluya\n       E\nYo lo hago solo para Ti\n           Am      \nQue me importa \n\nque critiquen, \n\nque no entiendan, \n\nque me digan \n        G\nque soy loco\n   Dm     E\nSi yo lo hago \n\nsolo para Ti",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1788542313432",
+      "title": "LA VOZ DE MI AMADO",
+      "artist": "",
+      "key": "Am",
+      "link": "",
+      "tags": [],
+      "rawText": "Am\n// La voz de mi amado, \nse oye ya //\n       Dm      Am                   \n// Ya viene, saltando, \nsobre los\nF    G      Am\n montes y collados//\n\n    G                   \nMi amado me habló \n     Am\ny me dijo\n G               Am\nLevántate amada mía\n   G          Am\nHermosa mía y ven\n         G                 \nPorque aquí \n                Am\nha pasado el invierno\n          G                   \nSe ha marchado \n               Am\nla lluvia y se fue\n           Dm                  \nSe han mostrado \n               Am\nlas flores del campo, \n    Dm                     \nEl tiempo de \n       Am        B —E–\nla canción Ya llegó",
+      "voiceNotes": "",
+      "activeVersionId": "1788542313432-version-0",
+      "versions": [
+        {
+          "id": "1788542313432-version-0",
+          "title": "SENCILLA",
+          "key": "Am",
+          "rawText": "Am\n// La voz de mi amado, \nse oye ya //\n       Dm      Am                   \n// Ya viene, saltando, \nsobre los\nF    G      Am\n montes y collados//\n\n    G                   \nMi amado me habló \n     Am\ny me dijo\n G               Am\nLevántate amada mía\n   G          Am\nHermosa mía y ven\n         G                 \nPorque aquí \n                Am\nha pasado el invierno\n          G                   \nSe ha marchado \n               Am\nla lluvia y se fue\n           Dm                  \nSe han mostrado \n               Am\nlas flores del campo, \n    Dm                     \nEl tiempo de \n       Am        B —E–\nla canción Ya llegó",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1788542818055",
+      "title": "LA VOZ DE MI AMADO (MAHANAIM)",
+      "artist": "",
+      "key": "Am",
+      "link": "",
+      "tags": [],
+      "rawText": "Am, F,E\nAm, F,E\nAm, F,E\nDm..\n\nAm, F,E\nAm, F,E\nAm, F,E\nDm..\n\n(arpegios)\nA, \n//E, G, A\nE, G, A\nE, G, A\nE, G, A//\n\nAm           \nOh Sulamita \n Em\ndime \nDm                    \nCómo es tu Amado \n     Am\npara ti \nAm           \nOh Sulamita \n Em\ndime\nDm                  \nDónde lo puedo \n      Am\nencontrar \n   Dm      \nMi Amado es\n          Am\nel más Hermoso \n    G               \nSeñalado entre\n     Am\ndiez mil\n   Dm      \nMi Amado es\n          Am\nel más Hermoso \n          G             \n/// Si no lo has \n      Am\nvisto ven ///\n\n      Am\n// La voz de mi amado,\nse oye ya //\n       Dm      Am                   \n// Ya viene, saltando,\nsobre los\nF    G      Am\n montes y collados//\n\n    G                  \nMi amado me habló\n    Am\ny me dijo\n G               Am\nLevántate amada mía\n   G          Am\nHermosa mía y ven\n         G                \nPorque aquí\n               Am\nha pasado el invierno\n          G                   \nSe ha marchado\n              Am\nla lluvia y se fue\n           Dm                 \nSe han mostrado\n              Am\nlas flores del campo, \n    Dm                    \nEl tiempo de\n      Am        F—E–F\nla canción Ya llegó",
+      "voiceNotes": "",
+      "activeVersionId": "1788542818055-version-0",
+      "versions": [
+        {
+          "id": "1788542818055-version-0",
+          "title": "Original",
+          "key": "Am",
+          "rawText": "Am, F,E\nAm, F,E\nAm, F,E\nDm..\n\nAm, F,E\nAm, F,E\nAm, F,E\nDm..\n\n(arpegios)\nA, \n//E, G, A\nE, G, A\nE, G, A\nE, G, A//\n\nAm           \nOh Sulamita \n Em\ndime \nDm                    \nCómo es tu Amado \n     Am\npara ti \nAm           \nOh Sulamita \n Em\ndime\nDm                  \nDónde lo puedo \n      Am\nencontrar \n   Dm      \nMi Amado es\n          Am\nel más Hermoso \n    G               \nSeñalado entre\n     Am\ndiez mil\n   Dm      \nMi Amado es\n          Am\nel más Hermoso \n          G             \n/// Si no lo has \n      Am\nvisto ven ///\n\n      Am\n// La voz de mi amado,\nse oye ya //\n       Dm      Am                   \n// Ya viene, saltando,\nsobre los\nF    G      Am\n montes y collados//\n\n    G                  \nMi amado me habló\n    Am\ny me dijo\n G               Am\nLevántate amada mía\n   G          Am\nHermosa mía y ven\n         G                \nPorque aquí\n               Am\nha pasado el invierno\n          G                   \nSe ha marchado\n              Am\nla lluvia y se fue\n           Dm                 \nSe han mostrado\n              Am\nlas flores del campo, \n    Dm                    \nEl tiempo de\n      Am        F—E–F\nla canción Ya llegó",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1788543147735",
+      "title": "DERRAMA DE TU VINO SEÑOR",
+      "artist": "",
+      "key": "Bm",
+      "link": "",
+      "tags": [],
+      "rawText": "Bm\n// Derrama de \ntu vino, Señor\n  A\nDerrama de \ntu gloria en mí\n\nMis labios te alabarán\n                      Bm\nTodo mi ser te glorificará //\n\nA\n// Todo mi ser, todo mi ser\nTodo mi ser te glorificará\n\nTodo mi ser, todo mi ser\n                       Bm\nTodo mi ser te glorificará //",
+      "voiceNotes": "",
+      "activeVersionId": "1788543147735-version-0",
+      "versions": [
+        {
+          "id": "1788543147735-version-0",
+          "title": "Original",
+          "key": "Bm",
+          "rawText": "Bm\n// Derrama de \ntu vino, Señor\n  A\nDerrama de \ntu gloria en mí\n\nMis labios te alabarán\n                      Bm\nTodo mi ser te glorificará //\n\nA\n// Todo mi ser, todo mi ser\nTodo mi ser te glorificará\n\nTodo mi ser, todo mi ser\n                       Bm\nTodo mi ser te glorificará //",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1788543902311",
+      "title": "CANTA SANTO (GRAN REY) GÉNESIS CAMPOS",
+      "artist": "",
+      "key": "Bm",
+      "link": "",
+      "tags": [],
+      "rawText": "G\nNo hay nada que de más\n      Bm\nFelicidad ¡oh, mi Señor!\n             D\nQue estar al lado Tuyo, Dios\n      A\nY contemplar Tu grande amor\n     G\nSólo Tú podías ser\n           Bm\nAquel gran Rey con gran poder\n#   D\nQue dejó Su Deidad\n      A\nPor darnos libertad\n\n           G  \n// Y veo a miles de naciones\n         Bm\nQue hoy cantan a Tu nombre\n     D\nY me uno a esas voces\n      A\nPara darte gloria , oh Rey/\n\n            G\n// Cantan  ̈¡Santo!\n        A     Bm\n¡Santo,santo, Santo\n\nA        G\nDicen  ̈¡Santo!\n        A       Bm\n¡Santo al gran Rey! ̈\nA   A     G\nCantan  ̈¡Santo!",
+      "voiceNotes": "",
+      "activeVersionId": "1788543902311-version-0",
+      "versions": [
+        {
+          "id": "1788543902311-version-0",
+          "title": "GRAN REY (CANTAN SANTO)",
+          "key": "Bm",
+          "rawText": "G\nNo hay nada que de más\n      Bm\nFelicidad ¡oh, mi Señor!\n             D\nQue estar al lado Tuyo, Dios\n      A\nY contemplar Tu grande amor\n     G\nSólo Tú podías ser\n           Bm\nAquel gran Rey con gran poder\n#   D\nQue dejó Su Deidad\n      A\nPor darnos libertad\n\n           G  \n// Y veo a miles de naciones\n         Bm\nQue hoy cantan a Tu nombre\n     D\nY me uno a esas voces\n      A\nPara darte gloria , oh Rey/\n\n            G\n// Cantan  ̈¡Santo!\n        A     Bm\n¡Santo,santo, Santo\n\nA        G\nDicen  ̈¡Santo!\n        A       Bm\n¡Santo al gran Rey! ̈\nA   A     G\nCantan  ̈¡Santo!",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1788544890438",
+      "title": "EL SEÑOR ES MI REY",
+      "artist": "",
+      "key": "Bm",
+      "link": "",
+      "tags": [],
+      "rawText": "Bm                    A\nEl señor es mi rey mi todo\nBm                    A\nEl señor es mi luz mi rey\nG                       D\nEl que me hace vibrar de Gozo            \nG               D\nEl que guía mis pasos\nG                   D\nEl que extiende sus brazos\nG                  Bm A Bm\nEl creador de los ciee,e los.",
+      "voiceNotes": "",
+      "activeVersionId": "1788544890438-version-0",
+      "versions": [
+        {
+          "id": "1788544890438-version-0",
+          "title": "Original",
+          "key": "Bm",
+          "rawText": "Bm                    A\nEl señor es mi rey mi todo\nBm                    A\nEl señor es mi luz mi rey\nG                       D\nEl que me hace vibrar de Gozo            \nG               D\nEl que guía mis pasos\nG                   D\nEl que extiende sus brazos\nG                  Bm A Bm\nEl creador de los ciee,e los.",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1788545523013",
+      "title": "SANTO POR SIEMPRE",
+      "artist": "",
+      "key": "C",
+      "link": "",
+      "tags": [],
+      "rawText": "C\nMil generaciones\n    F          C\nSe postran adorarle\n       Am        G\nLe cantan al cordero\n         F\nQue venció\n\n[Segunda Parte]\n\n      C\nLos que nos precedieron\n   F                 C\nY los que en Él creerán\n    Am           G\nLe cantarán a aquel\n            F\nQue ya venció\n\n   Am\nTu nombre, es más alto\n     G\nTu nombre, es más grande\n    Am     G          F\nTu nombre, sobre todo es\n\n     Am\nSean tronos, dominios \n   G\nPoderes y reinos\n    Am      G        Dm7\nTu nombre, sobre todo es\n\n            F\nClaman ángeles\n Am  G\nSan_to\n               Em7\nClama la creación\n    Am\nSanto\n           Dm7\nExaltado Dios\n    G\nSanto\n            C\nSanto por siempre",
+      "voiceNotes": "",
+      "activeVersionId": "1788545523013-version-0",
+      "versions": [
+        {
+          "id": "1788545523013-version-0",
+          "title": "Original",
+          "key": "C",
+          "rawText": "C\nMil generaciones\n    F          C\nSe postran adorarle\n       Am        G\nLe cantan al cordero\n         F\nQue venció\n\n[Segunda Parte]\n\n      C\nLos que nos precedieron\n   F                 C\nY los que en Él creerán\n    Am           G\nLe cantarán a aquel\n            F\nQue ya venció\n\n   Am\nTu nombre, es más alto\n     G\nTu nombre, es más grande\n    Am     G          F\nTu nombre, sobre todo es\n\n     Am\nSean tronos, dominios \n   G\nPoderes y reinos\n    Am      G        Dm7\nTu nombre, sobre todo es\n\n            F\nClaman ángeles\n Am  G\nSan_to\n               Em7\nClama la creación\n    Am\nSanto\n           Dm7\nExaltado Dios\n    G\nSanto\n            C\nSanto por siempre",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1788554289120",
+      "title": "QUE VIVA JESÚS",
+      "artist": "",
+      "key": "Bm",
+      "link": "",
+      "tags": [],
+      "rawText": "INTRO: TROMPETAS\nA         Bm \nTaratatara tarararai\nEm           A F#m Bm A\nTatatararata tarararai    \n\n       Bm\nMi corazón ya de ti \n             A\nse enamoró Jesus\n       G\nMi corazón de \n   F#m         Bm\ntu amor hoy se prendió \n                       A\nPor eso canto esta canción\n                   Bm \nQue sale de mi corazón \n\n                       A\nPor eso canto esta canción\n                   Bm \nQue sale de mi corazón \n\n                      A\nYo vine a celebrar a Jesús\n                      Bm\nYo vine a celebrar a Jesús/\n\n//Porque en la cruz \n                A\nla victoria conquistó \n\nAhí al diablo, \n       Bm\nAhí lo derrotó/\n\nQue viva viva \n        A\nviva mi Jesus\n\nQue viva viva \n        Bm\nviva mi Jesus ///\n\n Que viva viva \n        A\nviva mi Jesus\n       F#m\nQue viva viva \n        Bm\nviva mi Jesus",
+      "voiceNotes": "",
+      "activeVersionId": "1788554289120-version-0",
+      "versions": [
+        {
+          "id": "1788554289120-version-0",
+          "title": "QUE VIVA, VIVA, VIVA MI JESÚS",
+          "key": "Bm",
+          "rawText": "INTRO: TROMPETAS\nA         Bm \nTaratatara tarararai\nEm           A F#m Bm A\nTatatararata tarararai    \n\n       Bm\nMi corazón ya de ti \n             A\nse enamoró Jesus\n       G\nMi corazón de \n   F#m         Bm\ntu amor hoy se prendió \n                       A\nPor eso canto esta canción\n                   Bm \nQue sale de mi corazón \n\n                       A\nPor eso canto esta canción\n                   Bm \nQue sale de mi corazón \n\n                      A\nYo vine a celebrar a Jesús\n                      Bm\nYo vine a celebrar a Jesús/\n\n//Porque en la cruz \n                A\nla victoria conquistó \n\nAhí al diablo, \n       Bm\nAhí lo derrotó/\n\nQue viva viva \n        A\nviva mi Jesus\n\nQue viva viva \n        Bm\nviva mi Jesus ///\n\n Que viva viva \n        A\nviva mi Jesus\n       F#m\nQue viva viva \n        Bm\nviva mi Jesus",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1788557179805",
+      "title": "CON MIS MANOS LEVANTADAS (DANILO MONTERO)",
+      "artist": "",
+      "key": "G",
+      "link": "",
+      "tags": [],
+      "rawText": "D              \nCon mis manos levantadas \n            G\nhacia el cielo\n      Bm         A   \nMe presento ante ti\n          D\nhoy mi Señor\n      G         A     \nPara recibir de ti \n  D              Bm\nla fuerza y el poder\n      E    G         A\nPara vivir junto a ti.\n \n        D            \nLlenas hoy mi corazón\n          Em7\ncon tu presencia\n       A          \nLlenas de alegría \n              Bm\ny paz todo mi ser\n       G           D \nDe cualquier necesidad\n         Bm\ntú me responderás\n            Em     A\nPor que me amas me amas\n\n        D           \nLlenas hoy mi corazón\n          Em7\ncon tu presencia\n       A           \nLlenas de alegría \n              Bm\ny paz todo mi ser\n       G           D \nDe cualquier necesidad\n         Bm\ntú me responderás\n           C     Gm7    D\nPor que me amas me amas",
+      "voiceNotes": "",
+      "activeVersionId": "1788557179805-version-0",
+      "versions": [
+        {
+          "id": "1788557179805-version-0",
+          "title": "CON MIS MANOS LEVANTADAS",
+          "key": "G",
+          "rawText": "D              \nCon mis manos levantadas \n            G\nhacia el cielo\n      Bm         A   \nMe presento ante ti\n          D\nhoy mi Señor\n      G         A     \nPara recibir de ti \n  D              Bm\nla fuerza y el poder\n      E    G         A\nPara vivir junto a ti.\n \n        D            \nLlenas hoy mi corazón\n          Em7\ncon tu presencia\n       A          \nLlenas de alegría \n              Bm\ny paz todo mi ser\n       G           D \nDe cualquier necesidad\n         Bm\ntú me responderás\n            Em     A\nPor que me amas me amas\n\n        D           \nLlenas hoy mi corazón\n          Em7\ncon tu presencia\n       A           \nLlenas de alegría \n              Bm\ny paz todo mi ser\n       G           D \nDe cualquier necesidad\n         Bm\ntú me responderás\n           C     Gm7    D\nPor que me amas me amas",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1788557981557",
+      "title": "EN TU PRESENCIA (HERMOSA PRESENCIA) JULIO MELGAR",
+      "artist": "",
+      "key": "G",
+      "link": "",
+      "tags": [],
+      "rawText": "G\nEres tu mi gran amor\n  Em\nY la razón de mi existir\nC\nEres tu mi respirar\n           Em          D\nSin ti no puedo yo vivir\n \n   G\nHe aprendido a estar aquí\n  Em\nRodeado de tu santidad\n   C\nAquí me encuentro mi lugar\n           Em              D\nSe a convertido  en mi hogar\n \n          G\nEn tu presencia\n           Em\nHermosa presencia\n         C\nHaz sido mi refugio oh Dios\n         Em            D\nHaz sido tu mi salvación\n \nAm                       \n   A quien iré Jesús si\n G                D\n solo tu eres mi refugio\n\nG Am                    \n     A quien iré Jesús\nG\nSí solo tú\nD\n\nEres mi esperanza",
+      "voiceNotes": "",
+      "activeVersionId": "1788557981557-version-0",
+      "versions": [
+        {
+          "id": "1788557981557-version-0",
+          "title": "ERES TU MI GRAN AMOR",
+          "key": "G",
+          "rawText": "G\nEres tu mi gran amor\n  Em\nY la razón de mi existir\nC\nEres tu mi respirar\n           Em          D\nSin ti no puedo yo vivir\n \n   G\nHe aprendido a estar aquí\n  Em\nRodeado de tu santidad\n   C\nAquí me encuentro mi lugar\n           Em              D\nSe a convertido  en mi hogar\n \n          G\nEn tu presencia\n           Em\nHermosa presencia\n         C\nHaz sido mi refugio oh Dios\n         Em            D\nHaz sido tu mi salvación\n \nAm                       \n   A quien iré Jesús si\n G                D\n solo tu eres mi refugio\n\nG Am                    \n     A quien iré Jesús\nG\nSí solo tú\nD\n\nEres mi esperanza",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1788559344644",
+      "title": "ALELUYAH MSM",
+      "artist": "",
+      "key": "G",
+      "link": "",
+      "tags": [],
+      "rawText": "G    G/F\nAleluya\nC   Am\nAleluya\n   D\nAleluya\nC  D  G   D\nAleluya\n      G\nTe amamos\nC   Am \nTe amamos\n  D\nTe amamos\nC D  G   D\nTe amamos\n     G\nTe esperamos\nC      Am \nTe esperamos\n       D\nTe esperamos\nC D     G   D\nTe esperamos \n         G\nRey Glorioso\nG/F   C   Am\nMajestuoso\n        D\nTú eres digno\nC      D  G   D\nDe adoración",
+      "voiceNotes": "",
+      "activeVersionId": "1788559344644-version-0",
+      "versions": [
+        {
+          "id": "1788559344644-version-0",
+          "title": "ALELUYAH MIEL SAN MARCOS",
+          "key": "G",
+          "rawText": "G    G/F\nAleluya\nC   Am\nAleluya\n   D\nAleluya\nC  D  G   D\nAleluya\n      G\nTe amamos\nC   Am \nTe amamos\n  D\nTe amamos\nC D  G   D\nTe amamos\n     G\nTe esperamos\nC      Am \nTe esperamos\n       D\nTe esperamos\nC D     G   D\nTe esperamos \n         G\nRey Glorioso\nG/F   C   Am\nMajestuoso\n        D\nTú eres digno\nC      D  G   D\nDe adoración",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1789240742001",
+      "title": "REIVINDICARÁS",
+      "artist": "",
+      "key": "Em",
+      "link": "",
+      "tags": [],
+      "rawText": "Trompeta: \n\n// Em    G      D \n Tarararararatararar\n    Bm Em // \ntarararaaa\n           C            \nPerdido estaba\n          D\n en el olvido\n               Em \nTodo lo desperdicié \n       C          \nMalgastado, \n       D \nnecesitado\n                    Em \nA punto de desfallecer \n\n               C   D \nHoy vuelvo a casa \n        \n          Em \nMe llamas hijo\n\nCon tu amor\n\n y tú ternura \n      G               \nMe abrazaste, \n         D \nme levantaste \n                Am B \nY la fiesta comenzó \n\n       Em              \nPorque Tú me\n           G \nreivindicarás \n          D    Bm          \nY tus promesas yo \n        Em\nlas tomaré \n  D    Em               \nPorque Tú me\n           G \nreivindicarás \n            D      \nCon Tu Espíritu me \n Bm       Em   (D)\nvivificaras",
+      "voiceNotes": "",
+      "activeVersionId": "1789240742001-version-0",
+      "versions": [
+        {
+          "id": "1789240742001-version-0",
+          "title": "Original",
+          "key": "Em",
+          "rawText": "Trompeta: \n\n// Em    G      D \n Tarararararatararar\n    Bm Em // \ntarararaaa\n           C            \nPerdido estaba\n          D\n en el olvido\n               Em \nTodo lo desperdicié \n       C          \nMalgastado, \n       D \nnecesitado\n                    Em \nA punto de desfallecer \n\n               C   D \nHoy vuelvo a casa \n        \n          Em \nMe llamas hijo\n\nCon tu amor\n\n y tú ternura \n      G               \nMe abrazaste, \n         D \nme levantaste \n                Am B \nY la fiesta comenzó \n\n       Em              \nPorque Tú me\n           G \nreivindicarás \n          D    Bm          \nY tus promesas yo \n        Em\nlas tomaré \n  D    Em               \nPorque Tú me\n           G \nreivindicarás \n            D      \nCon Tu Espíritu me \n Bm       Em   (D)\nvivificaras",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1789240961305",
+      "title": "CAMINO AL CIELO YO VOY (YO TENGO GOZO)",
+      "artist": "",
+      "key": "Em",
+      "link": "",
+      "tags": [],
+      "rawText": "B  B  B  B  B  B\nEm  B  Em\nEm  B  B  C  B  A \nG  F#  E  B\n\n         Em                \nEstoy contento porque \n               B\nen Él tengo la vida\n               \nLa Vida eterna que\n              Em  \nJesucristo me dio\n                   \nYo tengo gozo, tengo paz,\n           B\ntengo alegría\nB            A        Em\nCa-mi-no al cie-lo yo voy\n\n          Em         \nEsta alegría que yo \n                   B\nsiento aqui en mi vida\n                        \nyo no la cambio por\n                  Em\nla gloria de este mundo\n                     \nestaba muerto y \n                 B\nJesús me dio la vida\nB  C  B      A  G  F# Em\nCa-mi-no al cie-lo yo voy\n\n         Em    \nYo tengo gozo, \n           B\ntengo alegria\n        \nTengo a Jesus, \n\ntengo la paz, \n          Em\ntengo la vida\n\nYo tengo gozo, \n           B\ntengo alegria\nB  C  B      A  G  F# Em\nCa-mi-no al cie-lo yo voy",
+      "voiceNotes": "",
+      "activeVersionId": "1789240961305-version-0",
+      "versions": [
+        {
+          "id": "1789240961305-version-0",
+          "title": "Original",
+          "key": "Em",
+          "rawText": "B  B  B  B  B  B\nEm  B  Em\nEm  B  B  C  B  A \nG  F#  E  B\n\n         Em                \nEstoy contento porque \n               B\nen Él tengo la vida\n               \nLa Vida eterna que\n              Em  \nJesucristo me dio\n                   \nYo tengo gozo, tengo paz,\n           B\ntengo alegría\nB            A        Em\nCa-mi-no al cie-lo yo voy\n\n          Em         \nEsta alegría que yo \n                   B\nsiento aqui en mi vida\n                        \nyo no la cambio por\n                  Em\nla gloria de este mundo\n                     \nestaba muerto y \n                 B\nJesús me dio la vida\nB  C  B      A  G  F# Em\nCa-mi-no al cie-lo yo voy\n\n         Em    \nYo tengo gozo, \n           B\ntengo alegria\n        \nTengo a Jesus, \n\ntengo la paz, \n          Em\ntengo la vida\n\nYo tengo gozo, \n           B\ntengo alegria\nB  C  B      A  G  F# Em\nCa-mi-no al cie-lo yo voy",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1789241182009",
+      "title": "DANZA DE AMOR",
+      "artist": "",
+      "key": "Em",
+      "link": "",
+      "tags": [],
+      "rawText": "//Em\n  Las bodas del cordero\n\nya se acercan\nAm\nEstamos a las puertas \n\nde esta fiesta\n     C               \nCon vestido de lino \nAm             B\nfino me presentaré \n(me presentaré)//\n \n \n     Em\nSin mancha y\n\nsin arruga\n  G\nSerá mi vestimenta\n      Cm           \nDe la mano de mi \n  Am       B\namado danzaré\n \n            C   \nEstá es la danza, \n                 G\nEs la danza de amor\n            Am   \nEstá es la danza,\n                    B\nQue danzo con mi amado\n \n            C \nEstá es la danza, \n                 G\nEs la danza de amor\n            Am \nEstá es la danza, \n               B\nDe los enamorados",
+      "voiceNotes": "",
+      "activeVersionId": "1789241182009-version-0",
+      "versions": [
+        {
+          "id": "1789241182009-version-0",
+          "title": "Original",
+          "key": "Em",
+          "rawText": "//Em\n  Las bodas del cordero\n\nya se acercan\nAm\nEstamos a las puertas \n\nde esta fiesta\n     C               \nCon vestido de lino \nAm             B\nfino me presentaré \n(me presentaré)//\n \n \n     Em\nSin mancha y\n\nsin arruga\n  G\nSerá mi vestimenta\n      Cm           \nDe la mano de mi \n  Am       B\namado danzaré\n \n            C   \nEstá es la danza, \n                 G\nEs la danza de amor\n            Am   \nEstá es la danza,\n                    B\nQue danzo con mi amado\n \n            C \nEstá es la danza, \n                 G\nEs la danza de amor\n            Am \nEstá es la danza, \n               B\nDe los enamorados",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1789241421017",
+      "title": "TU HAS SIDO FIEL",
+      "artist": "",
+      "key": "Em",
+      "link": "",
+      "tags": [],
+      "rawText": "Intro: \nAm –    Em –      \nTarara-tatararara-\n B7 –      Em\ntatararatatara\n\nEm        \nCon tremendas cosas, \n    C           B7\nTú me responderás\nB7  \nCon tremendas cosas,\n            Em\nTú me saciarás\nEm     \nCon tremendas cosas, \n      C         B7\nmuestras fidelidad\nB7   \nCon tremendas cosas, \n                Em\nTú me sorprenderás\n\nE              Am  \n Tú has sido fiel,\n             Em\nTú has sido fiel\n             B7  \nTú has sido fiel,\n             Em\nTú has sido fiel",
+      "voiceNotes": "",
+      "activeVersionId": "1789241421017-version-0",
+      "versions": [
+        {
+          "id": "1789241421017-version-0",
+          "title": "Original",
+          "key": "Em",
+          "rawText": "Intro: \nAm –    Em –      \nTarara-tatararara-\n B7 –      Em\ntatararatatara\n\nEm        \nCon tremendas cosas, \n    C           B7\nTú me responderás\nB7  \nCon tremendas cosas,\n            Em\nTú me saciarás\nEm     \nCon tremendas cosas, \n      C         B7\nmuestras fidelidad\nB7   \nCon tremendas cosas, \n                Em\nTú me sorprenderás\n\nE              Am  \n Tú has sido fiel,\n             Em\nTú has sido fiel\n             B7  \nTú has sido fiel,\n             Em\nTú has sido fiel",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1789241624121",
+      "title": "FIESTA DEL SEÑOR (DIOS SE HA ACORDADO)",
+      "artist": "",
+      "key": "Am",
+      "link": "",
+      "tags": [],
+      "rawText": "E               Am  \nDios se ha acordado \nG           C\nde los olvidados\n  E          Am   \nY Él ha proclamado \n            E\ncon su trompeta  [fiesta]\n E      C      G\nFiesta del  señor\n\n     C         E \nCon Cantos de amor \n          Am\nle agradecemos\n     C        E\nCon nuevo vino \n            Am\nhoy nos alegramos\n Dm          E     \nTodos los hermanos \n Dm           G\nhoy nos congregamos\n              E\nY hacemos fiesta (fiesta)\n(E      C    G\nFiesta del Señor\n\nE          Am     Em   \nLai laralaila laralara \nAm   Dm   E   Dm   E\nlailarlaia laralara\nD  D  D …",
+      "voiceNotes": "",
+      "activeVersionId": "1789241624121-version-0",
+      "versions": [
+        {
+          "id": "1789241624121-version-0",
+          "title": "Original",
+          "key": "Am",
+          "rawText": "E               Am  \nDios se ha acordado \nG           C\nde los olvidados\n  E          Am   \nY Él ha proclamado \n            E\ncon su trompeta  [fiesta]\n E      C      G\nFiesta del  señor\n\n     C         E \nCon Cantos de amor \n          Am\nle agradecemos\n     C        E\nCon nuevo vino \n            Am\nhoy nos alegramos\n Dm          E     \nTodos los hermanos \n Dm           G\nhoy nos congregamos\n              E\nY hacemos fiesta (fiesta)\n(E      C    G\nFiesta del Señor\n\nE          Am     Em   \nLai laralaila laralara \nAm   Dm   E   Dm   E\nlailarlaia laralara\nD  D  D …",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1789241819657",
+      "title": "OH! SEÑOR EN TÚ PRESENCIA",
+      "artist": "",
+      "key": "Em",
+      "link": "",
+      "tags": [],
+      "rawText": "Em   \nDías en que el pueblo \n       G\nde Israel\n  Am7            B\nCelebrando tu poder\nEm                G\nLibertad veían suceder \n       Am7         B\nEntre Júbilo y canción\nAm7                Em7\nOh Señor en tu presencia\n   B      \nGozamos hoy de \n               Em  E\naquel mismo mover\nAm7                Em7\nOh Señor en tu presencia\n   B \nLa casa de David \n         Em7\npodemos ver\n\nB   C   Am   B\nLai lai lai lai\n\nEm  \nPrometiste la \n          G\nrestauración\n   Am7             B\nDel lugar de adoración\nEm                    G\nY nos escogiste por amor\n       Am7          B\nComo eterna habitación\nAm7               Em7\nOh Señor es tu presencia\nB     \nLo que hoy llena \n           Em   E\nnuestro corazón\nAm7               Em7\nOh Señor es Tu presencia\nB  \nEl vino que deleita\n         Em7\nnuestro ser",
+      "voiceNotes": "",
+      "activeVersionId": "1789241819657-version-0",
+      "versions": [
+        {
+          "id": "1789241819657-version-0",
+          "title": "Original",
+          "key": "Em",
+          "rawText": "Em   \nDías en que el pueblo \n       G\nde Israel\n  Am7            B\nCelebrando tu poder\nEm                G\nLibertad veían suceder \n       Am7         B\nEntre Júbilo y canción\nAm7                Em7\nOh Señor en tu presencia\n   B      \nGozamos hoy de \n               Em  E\naquel mismo mover\nAm7                Em7\nOh Señor en tu presencia\n   B \nLa casa de David \n         Em7\npodemos ver\n\nB   C   Am   B\nLai lai lai lai\n\nEm  \nPrometiste la \n          G\nrestauración\n   Am7             B\nDel lugar de adoración\nEm                    G\nY nos escogiste por amor\n       Am7          B\nComo eterna habitación\nAm7               Em7\nOh Señor es tu presencia\nB     \nLo que hoy llena \n           Em   E\nnuestro corazón\nAm7               Em7\nOh Señor es Tu presencia\nB  \nEl vino que deleita\n         Em7\nnuestro ser",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1789241872698",
+      "title": "ACEÍTE FRESCO",
+      "artist": "",
+      "key": "Dm",
+      "link": "",
+      "tags": [],
+      "rawText": "Dm\nLibertad\n   Dm\nLibertad\n   Bb\nBendición\n   Bb\nSanidad\n Gm\nVida\n  Gm\nGozo\n    A4  \nAlegría\n      A\nAlegría\n  Dm\nVino nuevo\nDm\nFe (Fe)\nBb\nPaz (Paz)\nBb\nGozo (gozo)\n   Gm\nLibertad (libertad)\n   Gm\nLibertad (libertad)\n A4        A\nLibertad ohhh\n  \n    Dm\nAceite fresco\nestá cayendo aquí\n      Dm            \nAceite fresco\n       Bb\nestá cayendo aquí\n   Gm             \nPudriendo yugos,\n  A4      A Dm C Dm\ntrayendo libertad\n \n\n  Dm\nCristo (cristo)\n  Dm\nSalva (salva)\n  Bb\nPerdona (perdona)\n  Bb\nRestaura (restaura)\n  Gm\nLlena (llena)\n Gm\nUnge (unge)\n  A4  \nLevanta (levanta)\n   A\nEnvía (envía)\n   Dm\nLos cielos (los cielos)\n   Dm\nSe abren (se abren)\n  Bb\nAceite (aceite)\n    Bb\nDesciende (desciende)\n    Gm            Gm\nTrae libertad (libertad)\n   A4      A\nLibertad ohhh\n\n    Dm\nAceite fresco\nestá cayendo aquí\n      Dm            \nAceite fresco\n       Bb\nestá cayendo aquí\n   Gm             \nPudriendo yugos,\n  A4      A Dm C Dm\ntrayendo libertad\n \n  Dm\nSanto (santo)\n  Dm\nJusto (justo)\n   Bb\nPoderoso (poderoso)\n Bb\nFiel (fiel)\n  Gm\nGrande (grande)\n Gm\nBueno (bueno)\nA4  \nDigno (digno)\n  A\nDigno (digno)\n  Dm\nSanto (santo)\n Bb Gm Gm A4 A\nSanto\n \n    Dm\nAceite fresco\nestá cayendo aquí\n      Dm            \nAceite fresco\n       Bb\nestá cayendo aquí\n   Gm             \nPudriendo yugos,\n  A4      A Dm C Dm\ntrayendo libertad",
+      "voiceNotes": "",
+      "activeVersionId": "1789241872698-version-0",
+      "versions": [
+        {
+          "id": "1789241872698-version-0",
+          "title": "Original",
+          "key": "Dm",
+          "rawText": "Dm\nLibertad\n   Dm\nLibertad\n   Bb\nBendición\n   Bb\nSanidad\n Gm\nVida\n  Gm\nGozo\n    A4  \nAlegría\n      A\nAlegría\n  Dm\nVino nuevo\nDm\nFe (Fe)\nBb\nPaz (Paz)\nBb\nGozo (gozo)\n   Gm\nLibertad (libertad)\n   Gm\nLibertad (libertad)\n A4        A\nLibertad ohhh\n  \n    Dm\nAceite fresco\nestá cayendo aquí\n      Dm            \nAceite fresco\n       Bb\nestá cayendo aquí\n   Gm             \nPudriendo yugos,\n  A4      A Dm C Dm\ntrayendo libertad\n \n\n  Dm\nCristo (cristo)\n  Dm\nSalva (salva)\n  Bb\nPerdona (perdona)\n  Bb\nRestaura (restaura)\n  Gm\nLlena (llena)\n Gm\nUnge (unge)\n  A4  \nLevanta (levanta)\n   A\nEnvía (envía)\n   Dm\nLos cielos (los cielos)\n   Dm\nSe abren (se abren)\n  Bb\nAceite (aceite)\n    Bb\nDesciende (desciende)\n    Gm            Gm\nTrae libertad (libertad)\n   A4      A\nLibertad ohhh\n\n    Dm\nAceite fresco\nestá cayendo aquí\n      Dm            \nAceite fresco\n       Bb\nestá cayendo aquí\n   Gm             \nPudriendo yugos,\n  A4      A Dm C Dm\ntrayendo libertad\n \n  Dm\nSanto (santo)\n  Dm\nJusto (justo)\n   Bb\nPoderoso (poderoso)\n Bb\nFiel (fiel)\n  Gm\nGrande (grande)\n Gm\nBueno (bueno)\nA4  \nDigno (digno)\n  A\nDigno (digno)\n  Dm\nSanto (santo)\n Bb Gm Gm A4 A\nSanto\n \n    Dm\nAceite fresco\nestá cayendo aquí\n      Dm            \nAceite fresco\n       Bb\nestá cayendo aquí\n   Gm             \nPudriendo yugos,\n  A4      A Dm C Dm\ntrayendo libertad",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1789243621418",
+      "title": "LOS ENEMIGOS DE LA FE",
+      "artist": "",
+      "key": "Cm",
+      "link": "",
+      "tags": [],
+      "rawText": "Cm     Ab  \nSe burlaban de mí \n        Eb         Cm\nlos enemigos de la fe\n     Ab    Fm  \nY clamaban no hay \n      G7\nsalvación para él\n    Ab               Eb \nMás yo tomado de su mano \n        Bb        Cm\neste desierto pasaré\n             Ab         \nEstoy seguro de \n          Fm  G7 \nmi salvación\n    Ab  Fm\nEstoy seguro \n G7   Cm\nde mi salvación\n\nCm\nNo me avergüenzo\nCm\nDel evangelio que\n\nha sido gran poder\nCm  \nY libertad en la verdad \n          Eb\ngracias a él,\n       Fm       G7 \nHoy levanto el nombre \n       Cm\nde Jehová.//2\n\n          Ab         \nHoy me encuentro \n      Eb\nen corros\nBb             Cm\nPorque lo que siento\n    Ab    Eb \nEs salvación \nBb        Cm\nen mi corazón\n\n  Ab             Eb\nHoy levanto mis pies,\nBb         Cm\nNo me cansaré\n   Ab     Eb \nHay salvación\n   Bb     Cm\nen mi corazón.",
+      "voiceNotes": "",
+      "activeVersionId": "1789243621418-version-0",
+      "versions": [
+        {
+          "id": "1789243621418-version-0",
+          "title": "Original",
+          "key": "Cm",
+          "rawText": "Cm     Ab  \nSe burlaban de mí \n        Eb         Cm\nlos enemigos de la fe\n     Ab    Fm  \nY clamaban no hay \n      G7\nsalvación para él\n    Ab               Eb \nMás yo tomado de su mano \n        Bb        Cm\neste desierto pasaré\n             Ab         \nEstoy seguro de \n          Fm  G7 \nmi salvación\n    Ab  Fm\nEstoy seguro \n G7   Cm\nde mi salvación\n\nCm\nNo me avergüenzo\nCm\nDel evangelio que\n\nha sido gran poder\nCm  \nY libertad en la verdad \n          Eb\ngracias a él,\n       Fm       G7 \nHoy levanto el nombre \n       Cm\nde Jehová.//2\n\n          Ab         \nHoy me encuentro \n      Eb\nen corros\nBb             Cm\nPorque lo que siento\n    Ab    Eb \nEs salvación \nBb        Cm\nen mi corazón\n\n  Ab             Eb\nHoy levanto mis pies,\nBb         Cm\nNo me cansaré\n   Ab     Eb \nHay salvación\n   Bb     Cm\nen mi corazón.",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1789243803090",
+      "title": "TAN AGRADECIDO (DIOS AQUÍ ESTÁ CONMIGO)",
+      "artist": "",
+      "key": "Cm",
+      "link": "",
+      "tags": [],
+      "rawText": "Intro: \n// Cm–Gaug–Eb–Gaug// \n Ab – F# – G  \n\n Cm              \nDios aquí está\n   Eb\nconmigo  \n  Fm/D         \nY otra vez \n  G       Cm Ab–F#–G\nme sorprendió \nCm             \nMe dio lo \n    Eb\ninmerecido   \n Fm/D             \nEl se puso a \n      G      Cm\ntrabajar a mi favor     \n\n         Fm        \nY es que es tan pero tan \n          Cm\ndiferente estar en Cristo \n      D  \nPuedo ver su \n                G\nextraordinaria voluntad\n        Ab       Ab       \nY estoy tan pero tan \n      Ab       \npero tan pero \nAb       Eb\ntan agradecido\n   Fm/D         \nAl ver lo que \n  G       Cm     Cm/Bb\nhizo Dios conmigo    \n         Ab       Ab  \nPues soy tan pero tan \n      Ab       \npero tan pero \nAb        Eb\n\ntan  favorecido \n  Fm/D           \nPor la preciosa \n G       Cm    Cm/Bb\ngracia de Dios",
+      "voiceNotes": "",
+      "activeVersionId": "1789243803090-version-0",
+      "versions": [
+        {
+          "id": "1789243803090-version-0",
+          "title": "Original",
+          "key": "Cm",
+          "rawText": "Intro: \n// Cm–Gaug–Eb–Gaug// \n Ab – F# – G  \n\n Cm              \nDios aquí está\n   Eb\nconmigo  \n  Fm/D         \nY otra vez \n  G       Cm Ab–F#–G\nme sorprendió \nCm             \nMe dio lo \n    Eb\ninmerecido   \n Fm/D             \nEl se puso a \n      G      Cm\ntrabajar a mi favor     \n\n         Fm        \nY es que es tan pero tan \n          Cm\ndiferente estar en Cristo \n      D  \nPuedo ver su \n                G\nextraordinaria voluntad\n        Ab       Ab       \nY estoy tan pero tan \n      Ab       \npero tan pero \nAb       Eb\ntan agradecido\n   Fm/D         \nAl ver lo que \n  G       Cm     Cm/Bb\nhizo Dios conmigo    \n         Ab       Ab  \nPues soy tan pero tan \n      Ab       \npero tan pero \nAb        Eb\n\ntan  favorecido \n  Fm/D           \nPor la preciosa \n G       Cm    Cm/Bb\ngracia de Dios",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1789243847274",
+      "title": "DIOS EL MÁS GRANDE Y DIGNO DE ADORAR",
+      "artist": "",
+      "key": "A",
+      "link": "",
+      "tags": [],
+      "rawText": "A            D       \nDios el más grande \n   E          A\ny digno de alabar\n   D             E          \nYo vengo a tu Presencia \n   F#m7\na adorar\n    A                 \nYo doblo mis rodillas\nD    E\nante ti\n \nA            D        \nDios el más grande \nE          A\ny digno de alabar\n     D         E \nMe ayuda al enemigo\n   F#m7\nderrotar\n    A          \nEl Gozo de mi vida \n      D  E\neres tu\n \n  A        \nSeñor yo quiero \n            C#m7\nlevantar mi voz\n D           \nQuiero agradecerte \n       Bm7 \npor tu obra \n       E4   E\nen mi vida\n  A   \nSeñor confío \n             C#m7\nen tu grande amor\nD            \nSólo tú eres Dios eterno \nBm7         E          A\nsolo tú transformas mi ser",
+      "voiceNotes": "",
+      "activeVersionId": "1789243847274-version-0",
+      "versions": [
+        {
+          "id": "1789243847274-version-0",
+          "title": "Original",
+          "key": "A",
+          "rawText": "A            D       \nDios el más grande \n   E          A\ny digno de alabar\n   D             E          \nYo vengo a tu Presencia \n   F#m7\na adorar\n    A                 \nYo doblo mis rodillas\nD    E\nante ti\n \nA            D        \nDios el más grande \nE          A\ny digno de alabar\n     D         E \nMe ayuda al enemigo\n   F#m7\nderrotar\n    A          \nEl Gozo de mi vida \n      D  E\neres tu\n \n  A        \nSeñor yo quiero \n            C#m7\nlevantar mi voz\n D           \nQuiero agradecerte \n       Bm7 \npor tu obra \n       E4   E\nen mi vida\n  A   \nSeñor confío \n             C#m7\nen tu grande amor\nD            \nSólo tú eres Dios eterno \nBm7         E          A\nsolo tú transformas mi ser",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1789244033090",
+      "title": "AL ALTO Y SUBLIME",
+      "artist": "",
+      "key": "F",
+      "link": "",
+      "tags": [],
+      "rawText": "INTRO: \nF-C-Dm-C-A#-C\n\n     F\nA el alto \ny sublime\n      A#\nQue habita \nla eternidad\n     Gm\nY su nombre es\n                C\nel Santo de Israel\n\n         F\nAl que habita \nen las alturas\n  A#\nY en la Santidad\n            Gm\nY con el quebrantado \n                C\ny humilde de espíritu\n  Dm7\nPara hacer vivir \n     A#maj7\nel espíritu humilde\n  Dm7\nY para vivificar\n      A#maj7      C\nEl corazón quebrantado\n\n       F\nSea la gloria\n C\nHonor\n A#  F  Gm  C\nAlabanza y poder\n        F\nAl que reina\n        C\nPor los siglos\n     A#    C      F\nY su nombre Santo es\n(Santo es)",
+      "voiceNotes": "",
+      "activeVersionId": "1789244033090-version-0",
+      "versions": [
+        {
+          "id": "1789244033090-version-0",
+          "title": "Original",
+          "key": "F",
+          "rawText": "INTRO: \nF-C-Dm-C-A#-C\n\n     F\nA el alto \ny sublime\n      A#\nQue habita \nla eternidad\n     Gm\nY su nombre es\n                C\nel Santo de Israel\n\n         F\nAl que habita \nen las alturas\n  A#\nY en la Santidad\n            Gm\nY con el quebrantado \n                C\ny humilde de espíritu\n  Dm7\nPara hacer vivir \n     A#maj7\nel espíritu humilde\n  Dm7\nY para vivificar\n      A#maj7      C\nEl corazón quebrantado\n\n       F\nSea la gloria\n C\nHonor\n A#  F  Gm  C\nAlabanza y poder\n        F\nAl que reina\n        C\nPor los siglos\n     A#    C      F\nY su nombre Santo es\n(Santo es)",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1789244284818",
+      "title": "ALELUYAH (INSPIRACIÓN)",
+      "artist": "",
+      "key": "Am",
+      "link": "",
+      "tags": [],
+      "rawText": "Am \n// Aleluya,\n             G\nGloria, Aleluya\n             F\ngloria Aleluya\n             E\ngloria al Señor//\n\n            Am\n//Tú eres Santo\n               G\nSolo tú eres Santo\n               F\nsolo tú eres Santo\n            E\nSanto mi Señor//\n\nAleluya…",
+      "voiceNotes": "",
+      "activeVersionId": "1789244284818-version-0",
+      "versions": [
+        {
+          "id": "1789244284818-version-0",
+          "title": "Original",
+          "key": "Am",
+          "rawText": "Am \n// Aleluya,\n             G\nGloria, Aleluya\n             F\ngloria Aleluya\n             E\ngloria al Señor//\n\n            Am\n//Tú eres Santo\n               G\nSolo tú eres Santo\n               F\nsolo tú eres Santo\n            E\nSanto mi Señor//\n\nAleluya…",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1789244431546",
+      "title": "FUEGO (HAY UNA LLAMA)",
+      "artist": "",
+      "key": "Am",
+      "link": "",
+      "tags": [],
+      "rawText": "Am\n//Hay una llama, \n\nque arde en mí\n        F\nUn gran poder, \n\nque está en ti\n         G\nMe está quemando,\n\nsu fuego santo\n        E\nPuedo sentirlo\n\nestá aquí//\n\n   Am\n//Fuego (Fuego)\n  F\nFuego del señor \n(Fuego del señor)\n  G\nFuego (Fuego)\n  G\nFuego (Fuego)\n  E\nFuego purificador//",
+      "voiceNotes": "",
+      "activeVersionId": "1789244431546-version-0",
+      "versions": [
+        {
+          "id": "1789244431546-version-0",
+          "title": "Original",
+          "key": "Am",
+          "rawText": "Am\n//Hay una llama, \n\nque arde en mí\n        F\nUn gran poder, \n\nque está en ti\n         G\nMe está quemando,\n\nsu fuego santo\n        E\nPuedo sentirlo\n\nestá aquí//\n\n   Am\n//Fuego (Fuego)\n  F\nFuego del señor \n(Fuego del señor)\n  G\nFuego (Fuego)\n  G\nFuego (Fuego)\n  E\nFuego purificador//",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1789244588378",
+      "title": "MI CORAZÓN SE REGOCIJA EN EL SEÑOR",
+      "artist": "",
+      "key": "Am",
+      "link": "",
+      "tags": [],
+      "rawText": "Am\n//Mi corazón \n\nse regocija \n\nen el Señor\n         F\n Mi fortaleza en \n\nel Señor se exalta\n      G          \nMi boca cantará\n\nsin temor contra \n                 Am\nmis adversarios//\n \n \n F   \nPor cuanto me \n G            Am\nregocijo en su salvación\n F      \n Diré que no hay \nG                Am\nDios como mi Dios.\n \n F       \n  Por cuanto me \n G            Am\nregocijo en su salvación\n F    \n  Diré que no hay\nG                 E\nDios como el Señor.\n          Am\n//No hay santo \n\ncomo el Señor,\n            \nNo hay santo \n F\ncomo el Señor,\n    \nNo hay santo \nG\ncomo el Señor, \n   Am\n\nnuestro Dios//",
+      "voiceNotes": "",
+      "activeVersionId": "1789244588378-version-0",
+      "versions": [
+        {
+          "id": "1789244588378-version-0",
+          "title": "Original",
+          "key": "Am",
+          "rawText": "Am\n//Mi corazón \n\nse regocija \n\nen el Señor\n         F\n Mi fortaleza en \n\nel Señor se exalta\n      G          \nMi boca cantará\n\nsin temor contra \n                 Am\nmis adversarios//\n \n \n F   \nPor cuanto me \n G            Am\nregocijo en su salvación\n F      \n Diré que no hay \nG                Am\nDios como mi Dios.\n \n F       \n  Por cuanto me \n G            Am\nregocijo en su salvación\n F    \n  Diré que no hay\nG                 E\nDios como el Señor.\n          Am\n//No hay santo \n\ncomo el Señor,\n            \nNo hay santo \n F\ncomo el Señor,\n    \nNo hay santo \nG\ncomo el Señor, \n   Am\n\nnuestro Dios//",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1789244869458",
+      "title": "SORPRENDE AL REY",
+      "artist": "",
+      "key": "Am",
+      "link": "",
+      "tags": [],
+      "rawText": "Am, F, C, G, Am, \nF, C, G, Am,C,D,E\n\n Melodía\nAm, F, C, D7, \nAm, F, C, D, E\n\n    Am      \nJehová está \n            G\nen medio de ti\n  F             \nVamos hacerle fiesta\n     Dm\ncon fuerza como\n         E7\nlo hizo David.\n   Am ///  \nJehová///\n                 G\nestá en medio de ti\n  F    \nGuerrero victorioso \n    Dm\nel canta cuando Yo \n         E7\nlo hago feliz\n\n            Am\nPues su presencia\n\nestá aquí\n          G       \nSe puede sentir \n   F\nestamos todos de fiesta\n     Dm     \nCelebrando al gran rey \n         E7\npor su grandeza\n\n y su poder //\n\n          Am\nSi tú puedes saltar \n\ncomienza a saltar\n          C\nSi tú puedes saltar \n\ncomienza a saltar\n          G\nSi tú puedes saltar \n\ncomienza a saltar\n   F              \nVamos no te detengas \n   Dm\ncomienza hacer algo que\n             E7\nsorprenda al Rey",
+      "voiceNotes": "",
+      "activeVersionId": "1789244869458-version-0",
+      "versions": [
+        {
+          "id": "1789244869458-version-0",
+          "title": "Original",
+          "key": "Am",
+          "rawText": "Am, F, C, G, Am, \nF, C, G, Am,C,D,E\n\n Melodía\nAm, F, C, D7, \nAm, F, C, D, E\n\n    Am      \nJehová está \n            G\nen medio de ti\n  F             \nVamos hacerle fiesta\n     Dm\ncon fuerza como\n         E7\nlo hizo David.\n   Am ///  \nJehová///\n                 G\nestá en medio de ti\n  F    \nGuerrero victorioso \n    Dm\nel canta cuando Yo \n         E7\nlo hago feliz\n\n            Am\nPues su presencia\n\nestá aquí\n          G       \nSe puede sentir \n   F\nestamos todos de fiesta\n     Dm     \nCelebrando al gran rey \n         E7\npor su grandeza\n\n y su poder //\n\n          Am\nSi tú puedes saltar \n\ncomienza a saltar\n          C\nSi tú puedes saltar \n\ncomienza a saltar\n          G\nSi tú puedes saltar \n\ncomienza a saltar\n   F              \nVamos no te detengas \n   Dm\ncomienza hacer algo que\n             E7\nsorprenda al Rey",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1789244967474",
+      "title": "EL PODEROSO DE ISREL (JCA)",
+      "artist": "",
+      "key": "Cm",
+      "link": "",
+      "tags": [],
+      "rawText": "intro:\nC- Dm- Gm- \nDm \nÉl es el Poderoso \n\nde Israel\n\nEl Poderoso \n   A\nde Israel\n\nSu voz se oirá, \n\nnadie Lo detendrá\n\nAl Poderoso \n       Gm\nde Israel\n  C      Dm\nÉl es el Poderoso \n\nde Israel\n\nEl Poderoso \n     A\nde Israel\n\nSu voz se oirá,\n\nnadie Lo detendrá\n\nAl Poderoso \n     Gm\nde Israel\nDm\nY, de noche,\n\ncantaremos\n\nCelebrando \n\nSu poder\n\nCon alegría \n    A\nde corazón\n\nComo el que \n\nva con la flauta\n\nAl monte de Jehová\n\nCelebraremos \n      Gm\nSu poder\n       Dm\nÉl es él Poderoso\n\nde Israel\n\nEl Poderoso \n     A\nde Israel\n\nSu voz se oirá,\n\nnadie Lo detendrá\n\nAl Poderoso \n       Gm\nde Israel\n      Dm\nÉl es el Poderoso\n\nde Israel\n\nEl Poderoso \n      A\nde Israel\n\nSu voz se oirá,\n\nnadie Lo detendrá\n                  \nAl Poderoso \n      Gm\nde Israel\nDm\nY los ojos de \n\nlos ciegos\n\nSe abrirán \n\ny ellos verán\n\nLos oídos de \n          A\nlos sordos oirán\n\nEl cojo saltará\n\nCon el arpa, danzará\n\nLa lengua de \n              Gm\nlos mudos cantará\nDm \nÉl es el Poderoso \n\nde Israel\n\nEl Poderoso \n   A\nde Israel\n\nSu voz se oirá, \n\nnadie Lo detendrá\n\nAl Poderoso \n       Gm\nde Israel",
+      "voiceNotes": "",
+      "activeVersionId": "1789244967474-version-0",
+      "versions": [
+        {
+          "id": "1789244967474-version-0",
+          "title": "Original",
+          "key": "Cm",
+          "rawText": "intro:\nC- Dm- Gm- \nDm \nÉl es el Poderoso \n\nde Israel\n\nEl Poderoso \n   A\nde Israel\n\nSu voz se oirá, \n\nnadie Lo detendrá\n\nAl Poderoso \n       Gm\nde Israel\n  C      Dm\nÉl es el Poderoso \n\nde Israel\n\nEl Poderoso \n     A\nde Israel\n\nSu voz se oirá,\n\nnadie Lo detendrá\n\nAl Poderoso \n     Gm\nde Israel\nDm\nY, de noche,\n\ncantaremos\n\nCelebrando \n\nSu poder\n\nCon alegría \n    A\nde corazón\n\nComo el que \n\nva con la flauta\n\nAl monte de Jehová\n\nCelebraremos \n      Gm\nSu poder\n       Dm\nÉl es él Poderoso\n\nde Israel\n\nEl Poderoso \n     A\nde Israel\n\nSu voz se oirá,\n\nnadie Lo detendrá\n\nAl Poderoso \n       Gm\nde Israel\n      Dm\nÉl es el Poderoso\n\nde Israel\n\nEl Poderoso \n      A\nde Israel\n\nSu voz se oirá,\n\nnadie Lo detendrá\n                  \nAl Poderoso \n      Gm\nde Israel\nDm\nY los ojos de \n\nlos ciegos\n\nSe abrirán \n\ny ellos verán\n\nLos oídos de \n          A\nlos sordos oirán\n\nEl cojo saltará\n\nCon el arpa, danzará\n\nLa lengua de \n              Gm\nlos mudos cantará\nDm \nÉl es el Poderoso \n\nde Israel\n\nEl Poderoso \n   A\nde Israel\n\nSu voz se oirá, \n\nnadie Lo detendrá\n\nAl Poderoso \n       Gm\nde Israel",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1789245056099",
+      "title": "CANTOS DE LIBERACIÓN (G.CAMPOS)",
+      "artist": "",
+      "key": "Bm",
+      "link": "",
+      "tags": [],
+      "rawText": "Bm\n// Cantos de liberación\n         Em\nSon los que me rodearan\n   A              F#\nAl Shofar del jubileo\n     Bm\nLas cadenas se abren ya //\n\nCoro:\n    Em        Bm\nEl triste tiene vino\n   Em       Bm\nEl ansioso tiene paz\n  Em.         Bm     Em     F#\nPues hoy ha llegado tu libertad\n   Em             Bm\nEl cansado tiene fuerza\n    Em         Bm\nEl enfermo sanidad\n    Em            Bm\nEl pecador se arrepiente\n  Em           F#\nY limpio queda ya\n         Bm\nHay libertad",
+      "voiceNotes": "",
+      "activeVersionId": "1789245056099-version-0",
+      "versions": [
+        {
+          "id": "1789245056099-version-0",
+          "title": "Original",
+          "key": "Bm",
+          "rawText": "Bm\n// Cantos de liberación\n         Em\nSon los que me rodearan\n   A              F#\nAl Shofar del jubileo\n     Bm\nLas cadenas se abren ya //\n\nCoro:\n    Em        Bm\nEl triste tiene vino\n   Em       Bm\nEl ansioso tiene paz\n  Em.         Bm     Em     F#\nPues hoy ha llegado tu libertad\n   Em             Bm\nEl cansado tiene fuerza\n    Em         Bm\nEl enfermo sanidad\n    Em            Bm\nEl pecador se arrepiente\n  Em           F#\nY limpio queda ya\n         Bm\nHay libertad",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1789245103898",
+      "title": "AMO AL SEÑOR (NUEVO PACTO)",
+      "artist": "",
+      "key": "D",
+      "link": "",
+      "tags": [],
+      "rawText": "D         F#m/C#            \nAmo al Señor porque \nBm7        D\nescuchó mi voz\n           G       Em7          \nPor tanto le invocaré\n       Asus4 A \nmientras viva,\n\nD          F#m/C#     \nEl es mi fuerza, \n       Bm7           D/A\nmi castillo y mi sostén;\n  G           D/F#  \nA Él le invocare,  \nEm7          Asus4 A\nÉl me escuchará.\n\nBbm Bm\n    Extendió su mano\n  F#M7  \nY me tomó,\n   Bm\nClemente y compasivo\n    F#M7\nMe rescato.\n             G\nPorque Él me ama,\n   A       G  \nMe ama, me ama\nA        D        \n Y yo le amo.",
+      "voiceNotes": "",
+      "activeVersionId": "1789245103898-version-0",
+      "versions": [
+        {
+          "id": "1789245103898-version-0",
+          "title": "ELIM",
+          "key": "D",
+          "rawText": "D         F#m/C#            \nAmo al Señor porque \nBm7        D\nescuchó mi voz\n           G       Em7          \nPor tanto le invocaré\n       Asus4 A \nmientras viva,\n\nD          F#m/C#     \nEl es mi fuerza, \n       Bm7           D/A\nmi castillo y mi sostén;\n  G           D/F#  \nA Él le invocare,  \nEm7          Asus4 A\nÉl me escuchará.\n\nBbm Bm\n    Extendió su mano\n  F#M7  \nY me tomó,\n   Bm\nClemente y compasivo\n    F#M7\nMe rescato.\n             G\nPorque Él me ama,\n   A       G  \nMe ama, me ama\nA        D        \n Y yo le amo.",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1789245272442",
+      "title": "GRACIAS (M.WITT)",
+      "artist": "",
+      "key": "A",
+      "link": "",
+      "tags": [],
+      "rawText": "//A  E  Bm  F#M//\n\n        F#m\nMe has tomado en tus brazos\n        E\nMe has dado salvación\n      F#m\nDe tu amor, has derramado\n          E\nEn mi corazón\n     F#m\nNo sabré agradecerte\n            E\nLo que has hecho por mí\n     F#m\nSolo puedo darte ahora\n       E  \nMi canción\n\nA     E\nGra_cias \nBm         F#m \nGracias, Señor\nA            E\nGracias, mi Señor\nD\nJesús",
+      "voiceNotes": "",
+      "activeVersionId": "1789245272442-version-0",
+      "versions": [
+        {
+          "id": "1789245272442-version-0",
+          "title": "Original",
+          "key": "A",
+          "rawText": "//A  E  Bm  F#M//\n\n        F#m\nMe has tomado en tus brazos\n        E\nMe has dado salvación\n      F#m\nDe tu amor, has derramado\n          E\nEn mi corazón\n     F#m\nNo sabré agradecerte\n            E\nLo que has hecho por mí\n     F#m\nSolo puedo darte ahora\n       E  \nMi canción\n\nA     E\nGra_cias \nBm         F#m \nGracias, Señor\nA            E\nGracias, mi Señor\nD\nJesús",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1789245392162",
+      "title": "DERRAMO MI PERFUME (RODEADO)",
+      "artist": "",
+      "key": "Am",
+      "link": "",
+      "tags": [],
+      "rawText": "INTRO:\nAm F Dm G\n\nC\nDerramo mi perfume\nF\nAunque no te pueda ver\nAm     G     C\nTú me prometiste\n      F          G\nQue nunca me dejarás\n\n    Dm       F\nVeo ángeles rodear\n      C     Em\neste lugar, oh-oh\n    Dm      F\nVeo ángeles rodear \n        E7\neste lugar\n\nAm7\nEstoy rodeado, \nrodeado, rodeado\n        G\nDe una gloria que no veo,\nno veo, no veo\n                     F\nSin mirarte yo te siento,\n               Dm7\nte siento, te siento\n                    E\nY no puedo de Ti escapar",
+      "voiceNotes": "",
+      "activeVersionId": "1789245392162-version-0",
+      "versions": [
+        {
+          "id": "1789245392162-version-0",
+          "title": "Original",
+          "key": "Am",
+          "rawText": "INTRO:\nAm F Dm G\n\nC\nDerramo mi perfume\nF\nAunque no te pueda ver\nAm     G     C\nTú me prometiste\n      F          G\nQue nunca me dejarás\n\n    Dm       F\nVeo ángeles rodear\n      C     Em\neste lugar, oh-oh\n    Dm      F\nVeo ángeles rodear \n        E7\neste lugar\n\nAm7\nEstoy rodeado, \nrodeado, rodeado\n        G\nDe una gloria que no veo,\nno veo, no veo\n                     F\nSin mirarte yo te siento,\n               Dm7\nte siento, te siento\n                    E\nY no puedo de Ti escapar",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1789245511578",
+      "title": "GRANDE ERES JEHOVÁ",
+      "artist": "",
+      "key": "Am",
+      "link": "",
+      "tags": [],
+      "rawText": "INTRO:\nF— Am —-- G —-- Am \nG —-- Dm —- Em\n\nF — Am —- G —-- Am \nG —-- DM —- Em\n     Am    \nEXTENDISTE TU MANO \n        G\nME LEVANTASTE CON PODER\n      F\nCANTARÉ DE TU AMOR\n  Dm\nY TU SALVACIÓN \n     Em\nPUES TU ERES MI DIOS\n\n    Am\nRESCATASTE MI VIDA\n       G\nDE LA DESESPERACIÓN\n        F\nMI ESPERANZA ERES TÚ\n   Dm              \nMI ROCA, MI GOZO \n  E\nY MI LIBERTADOR\n\n           Am              \n// YO DANZARÉ, CON TODO MI \nG\nCORAZÓN\n               F\nMI BOCA TE BENDECIRÁ,",
+      "voiceNotes": "",
+      "activeVersionId": "1789245511578-version-0",
+      "versions": [
+        {
+          "id": "1789245511578-version-0",
+          "title": "Original",
+          "key": "Am",
+          "rawText": "INTRO:\nF— Am —-- G —-- Am \nG —-- Dm —- Em\n\nF — Am —- G —-- Am \nG —-- DM —- Em\n     Am    \nEXTENDISTE TU MANO \n        G\nME LEVANTASTE CON PODER\n      F\nCANTARÉ DE TU AMOR\n  Dm\nY TU SALVACIÓN \n     Em\nPUES TU ERES MI DIOS\n\n    Am\nRESCATASTE MI VIDA\n       G\nDE LA DESESPERACIÓN\n        F\nMI ESPERANZA ERES TÚ\n   Dm              \nMI ROCA, MI GOZO \n  E\nY MI LIBERTADOR\n\n           Am              \n// YO DANZARÉ, CON TODO MI \nG\nCORAZÓN\n               F\nMI BOCA TE BENDECIRÁ,",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1789605701144",
+      "title": "ME GOCE (CCINT)",
+      "artist": "",
+      "key": "Dm",
+      "link": "",
+      "tags": [],
+      "rawText": "Dm - C- Bb- A7\n//Dm - Bb -Gm- A7//\n    Dm              \nMe gocé con los que \nGm\nme decían\n A7                \n\"Iremos a la casa \n\ndel Señor\" \n  A\ny Entraremos por \n\nsus puertas con amor \n       Dm\nYo me goce \n        \ncon los que \nGm\nme decían\n A7          \n\"Iremos a la casa \n\ndel Señor\"\n   \n  A         \ny Entraremos por\n                 Dm\nsus puertas con amor \n\nC -Gm - G7 - G\n     Dm - C- Gm7 - G\nCon Amor\n\n       Dm\nTus aposentos\n           Gm7\nSon mis deseos\n     A\nHabitar tu Santo lugar y \n\nAdorarte en libertad \n       Dm\ncon alabanza \n              Gm\ny acción de gracias \n       A\nNos reunimos a tus pies \n\nPara adorarte Rey\n        Bb\nla hermosura \n            F\nDe tu Santidad\n           A\nllena esta Casa \n           Dm\nLlena este altar\n         Bb\nAnte tu Gloria\n               F\nnos postramos hoy\n    A7\neres Digno de\n          Dm    C   Gm\nnuestra adoraciooooooónn \n      Dm    C   Gm\nAdoraciooooooónn",
+      "voiceNotes": "",
+      "activeVersionId": "1789605701144-version-0",
+      "versions": [
+        {
+          "id": "1789605701144-version-0",
+          "title": "Original",
+          "key": "Dm",
+          "rawText": "Dm - C- Bb- A7\n//Dm - Bb -Gm- A7//\n    Dm              \nMe gocé con los que \nGm\nme decían\n A7                \n\"Iremos a la casa \n\ndel Señor\" \n  A\ny Entraremos por \n\nsus puertas con amor \n       Dm\nYo me goce \n        \ncon los que \nGm\nme decían\n A7          \n\"Iremos a la casa \n\ndel Señor\"\n   \n  A         \ny Entraremos por\n                 Dm\nsus puertas con amor \n\nC -Gm - G7 - G\n     Dm - C- Gm7 - G\nCon Amor\n\n       Dm\nTus aposentos\n           Gm7\nSon mis deseos\n     A\nHabitar tu Santo lugar y \n\nAdorarte en libertad \n       Dm\ncon alabanza \n              Gm\ny acción de gracias \n       A\nNos reunimos a tus pies \n\nPara adorarte Rey\n        Bb\nla hermosura \n            F\nDe tu Santidad\n           A\nllena esta Casa \n           Dm\nLlena este altar\n         Bb\nAnte tu Gloria\n               F\nnos postramos hoy\n    A7\neres Digno de\n          Dm    C   Gm\nnuestra adoraciooooooónn \n      Dm    C   Gm\nAdoraciooooooónn",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1792774569623",
+      "title": "Y qué hizo Dios",
+      "artist": "",
+      "key": "Em",
+      "link": "",
+      "tags": [],
+      "rawText": "Em\nY qué hizo Dios Em\n​Em - B - Em\nEm - B - E - Am - Em - B - Em\nEm - B7 - Em - Am - Em - B\n​[Verso 1]\n  Em\nY qué hizo Dios\n​Hizo Maravillas\n  B\nY qué hizo Dios\n​Hizo Maravillas\n  Em\nY qué hizo Dios\n​Hizo Maravillas\nAm          Em\nAlabad a Jehová\nB           Em\nAlabad a Jehová\n\n   Em\nCantad a Jehová\n​Un cántico nuevo\n    B\nCantad a Jehová\n​Un cántico nuevo\n    ​Em\nCantad a Jehová \nUn cántico nuevo\nAm          Em\nAlabad a Jehová\nB           Em\nAlabad a Jehová\n\n   Em\nEl mar les abrió\nPasaron en seco\n   B\n​El mar les abrió\nPasaron en seco\nEm\nEl mar les abrió\nPasaron en seco\nAm           Em\nAlabad a Jehová\nB            Em\nAlabad a Jehová",
+      "voiceNotes": "",
+      "activeVersionId": "1792774569623-version-0",
+      "versions": [
+        {
+          "id": "1792774569623-version-0",
+          "title": "Original",
+          "key": "Em",
+          "rawText": "Em\nY qué hizo Dios Em\n​Em - B - Em\nEm - B - E - Am - Em - B - Em\nEm - B7 - Em - Am - Em - B\n​[Verso 1]\n  Em\nY qué hizo Dios\n​Hizo Maravillas\n  B\nY qué hizo Dios\n​Hizo Maravillas\n  Em\nY qué hizo Dios\n​Hizo Maravillas\nAm          Em\nAlabad a Jehová\nB           Em\nAlabad a Jehová\n\n   Em\nCantad a Jehová\n​Un cántico nuevo\n    B\nCantad a Jehová\n​Un cántico nuevo\n    ​Em\nCantad a Jehová \nUn cántico nuevo\nAm          Em\nAlabad a Jehová\nB           Em\nAlabad a Jehová\n\n   Em\nEl mar les abrió\nPasaron en seco\n   B\n​El mar les abrió\nPasaron en seco\nEm\nEl mar les abrió\nPasaron en seco\nAm           Em\nAlabad a Jehová\nB            Em\nAlabad a Jehová",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1792775523141",
+      "title": "CÓMO PODRÉ PAGAR TANTO FAVOR (F. MONROY)",
+      "artist": "",
+      "key": "Em",
+      "link": "",
+      "tags": [],
+      "rawText": "​G       C     D           G\n​como podre pagar tanto favor\n​        C     D              Em\n​nunca podre pagar de lo que soy\n     ​C                   D\n​pues antes mi vida un lamento era\n​    B                Em\n​hoy es un nueva canción\n​     C                          D\n​que vengo a entonar con el corazón\n​      C               D          B              Em\n​solo puedo alzar mis manos solo puedo alzar mi voz\n​     C             D       G        C           D\n​y decirte que te amo oh Señor nada tengo de mi mismo\n​     B           Em       C         D            G\n​todo me lo diste tu y por eso hoy elevo a ti mi voz",
+      "voiceNotes": "",
+      "activeVersionId": "1792775523141-version-0",
+      "versions": [
+        {
+          "id": "1792775523141-version-0",
+          "title": "CÓMO PODRÉ PAGAR TANTO FAVOR",
+          "key": "Em",
+          "rawText": "​G       C     D           G\n​como podre pagar tanto favor\n​        C     D              Em\n​nunca podre pagar de lo que soy\n     ​C                   D\n​pues antes mi vida un lamento era\n​    B                Em\n​hoy es un nueva canción\n​     C                          D\n​que vengo a entonar con el corazón\n​      C               D          B              Em\n​solo puedo alzar mis manos solo puedo alzar mi voz\n​     C             D       G        C           D\n​y decirte que te amo oh Señor nada tengo de mi mismo\n​     B           Em       C         D            G\n​todo me lo diste tu y por eso hoy elevo a ti mi voz",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1792776074148",
+      "title": "Ante ti (Cuando estoy en tu presencia)",
+      "artist": "",
+      "key": "G",
+      "link": "",
+      "tags": [],
+      "rawText": "G     Am          D\nCuando estoy en tu Presencia\n             G      Em\nAdorando tu Nombre\n                  D\nalgo empieza a suceder\n C   D     G\ndentro de mi\n\nEm               Bm\nÁngeles vienen a Ministrarme\n     Em              Bm\ntu Espíritu Santo a consolarme\n      C        Am\ny tu dulce presencia\n     C   Am      D\nquebranta mi cerrazón//\n\n     C    D        G\nCuando estoy ante Ti//",
+      "voiceNotes": "",
+      "activeVersionId": "1792776074148-version-0",
+      "versions": [
+        {
+          "id": "1792776074148-version-0",
+          "title": "Original",
+          "key": "G",
+          "rawText": "G     Am          D\nCuando estoy en tu Presencia\n             G      Em\nAdorando tu Nombre\n                  D\nalgo empieza a suceder\n C   D     G\ndentro de mi\n\nEm               Bm\nÁngeles vienen a Ministrarme\n     Em              Bm\ntu Espíritu Santo a consolarme\n      C        Am\ny tu dulce presencia\n     C   Am      D\nquebranta mi cerrazón//\n\n     C    D        G\nCuando estoy ante Ti//",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1792776859315",
+      "title": "En tu presencia (J. Melgar)",
+      "artist": "",
+      "key": "G",
+      "link": "",
+      "tags": [],
+      "rawText": "G\n​Eres tu mi gran amor\n​  Em\n​Y la razón de mi existir\n​C\n​Eres tu mi respirar\n​           Em          D\n​Sin ti no puedo yo vivir\n\n​   G\n​He aprendido a estar aquí\n​  Em\n​Rodeado de tu santidad\n​   C\n​Aquí me encuentro mi lugar\n​           Em              D\n​Se a convertido  en mi hogar\n\n​          G\n​En tu presencia\n​           Em\n​Hermosa presencia\n​         C\n​Haz sido mi refugio oh Dios\n​         Em            D\n​Haz sido tu mi salvación\n\n​Am                      G                D\n​   A quien iré Jesús si solo tu eres mi refugio\n​G Am                     G\n​      A quien iré Jesús si solo tu\n​            D\n​Eres mi esperanza",
+      "voiceNotes": "",
+      "activeVersionId": "1792776859315-version-0",
+      "versions": [
+        {
+          "id": "1792776859315-version-0",
+          "title": "Original",
+          "key": "G",
+          "rawText": "G\n​Eres tu mi gran amor\n​  Em\n​Y la razón de mi existir\n​C\n​Eres tu mi respirar\n​           Em          D\n​Sin ti no puedo yo vivir\n\n​   G\n​He aprendido a estar aquí\n​  Em\n​Rodeado de tu santidad\n​   C\n​Aquí me encuentro mi lugar\n​           Em              D\n​Se a convertido  en mi hogar\n\n​          G\n​En tu presencia\n​           Em\n​Hermosa presencia\n​         C\n​Haz sido mi refugio oh Dios\n​         Em            D\n​Haz sido tu mi salvación\n\n​Am                      G                D\n​   A quien iré Jesús si solo tu eres mi refugio\n​G Am                     G\n​      A quien iré Jesús si solo tu\n​            D\n​Eres mi esperanza",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1792777712591",
+      "title": "Adorarte (Ebenezer GT)",
+      "artist": "",
+      "key": "G",
+      "link": "",
+      "tags": [],
+      "rawText": "C, G, D, - G, Em, C\n​       C, G, D, - G,  D, Em\n\n \n ​    G                    D\n​Adorarte le da vida a mi ser,\n​     C                     D   Dsus4, D\n​Y mi alma se deleita en alabar,\n​          G                        Em\n​Porque mejor es estar un día en tus atrios,\n​        C                    D\n​Que Mil días habitar, fuera de ti.\n \n​    G           D            C\n​No existe otro anhelo mas precioso,\n​        Em                      D  Dsus4, D\n​Que habitar en tu lugar santísimo,\n​        G         D           C\n​Permanecer toda mi vida en tus brazos,\n​       Em    C      D   G\n​Y escuchar latir tu corazón.",
+      "voiceNotes": "",
+      "activeVersionId": "1792777712591-version-0",
+      "versions": [
+        {
+          "id": "1792777712591-version-0",
+          "title": "Original",
+          "key": "G",
+          "rawText": "C, G, D, - G, Em, C\n​       C, G, D, - G,  D, Em\n\n \n ​    G                    D\n​Adorarte le da vida a mi ser,\n​     C                     D   Dsus4, D\n​Y mi alma se deleita en alabar,\n​          G                        Em\n​Porque mejor es estar un día en tus atrios,\n​        C                    D\n​Que Mil días habitar, fuera de ti.\n \n​    G           D            C\n​No existe otro anhelo mas precioso,\n​        Em                      D  Dsus4, D\n​Que habitar en tu lugar santísimo,\n​        G         D           C\n​Permanecer toda mi vida en tus brazos,\n​       Em    C      D   G\n​Y escuchar latir tu corazón.",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1792778630972",
+      "title": "COMO LA PRIMERA VEZ (EKKTASIS)",
+      "artist": "",
+      "key": "Em",
+      "link": "",
+      "tags": [],
+      "rawText": "C                    G\n​Como la primera vez que me enamore de ti\n​                  D                  Em\n​no me pude resistir, no me pude resistir.\n \n \n​                 C                    G\n​Como la primera vez que me enamore de ti\n​           D            Em\n​enamórame más, enamórame más.\n \n​    C   \n​Enamórame más\n    G\n​Enamórame más\n    D\n​Enamórame más\n    Em\n​Enamórame más\n \n​     C  \nApasióname más\n     G\nApasióname más\n     D\nApasióname más\n     Em\nApasióname más\n​                 C           G\n​Con lazos de amores tú me tomaste\n​              D              Em\n​tú me abrazaste, con amor eterno.",
+      "voiceNotes": "",
+      "activeVersionId": "1792778630972-version-0",
+      "versions": [
+        {
+          "id": "1792778630972-version-0",
+          "title": "Original",
+          "key": "Em",
+          "rawText": "C                    G\n​Como la primera vez que me enamore de ti\n​                  D                  Em\n​no me pude resistir, no me pude resistir.\n \n \n​                 C                    G\n​Como la primera vez que me enamore de ti\n​           D            Em\n​enamórame más, enamórame más.\n \n​    C   \n​Enamórame más\n    G\n​Enamórame más\n    D\n​Enamórame más\n    Em\n​Enamórame más\n \n​     C  \nApasióname más\n     G\nApasióname más\n     D\nApasióname más\n     Em\nApasióname más\n​                 C           G\n​Con lazos de amores tú me tomaste\n​              D              Em\n​tú me abrazaste, con amor eterno.",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1792779456642",
+      "title": "ESTAMOS AQUI (ELIM)",
+      "artist": "",
+      "key": "A",
+      "link": "",
+      "tags": [],
+      "rawText": "​A             E                A\n​Estamos aquí adorando tu nombre Señor\n   A              E                 A\n​Estamos aquí exaltando tu nombre Señor\n  \n       ​Bm            E\n​//Y tu gloria descendera\n​       A              D         Bm\n​Tu presencia nos llenara de esa paz\n​     D   E          A\n​que solo tu puedes dar//",
+      "voiceNotes": "",
+      "activeVersionId": "1792779456642-version-0",
+      "versions": [
+        {
+          "id": "1792779456642-version-0",
+          "title": "ADORANDO TU GLORIA SEÑOR",
+          "key": "A",
+          "rawText": "​A             E                A\n​Estamos aquí adorando tu nombre Señor\n   A              E                 A\n​Estamos aquí exaltando tu nombre Señor\n  \n       ​Bm            E\n​//Y tu gloria descendera\n​       A              D         Bm\n​Tu presencia nos llenara de esa paz\n​     D   E          A\n​que solo tu puedes dar//",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1792796832277",
+      "title": "VINE A ADORAR A DIOS (LLAMADA FINAL)",
+      "artist": "",
+      "key": "C",
+      "link": "",
+      "tags": [],
+      "rawText": "Am7 - F - C\nDm - Gsus4-G - C\nC         G  Am    Gm \nVine a adorar a Dios,\nFM7        C   Dm    G vine a adorar a Dios\nC        G     Am    Am7 Vine a adorar su NombreF          G    C    G\n¡Vine a adorar a Dios!\nC         G  Am    Am7 - FM7\nVine a adorar a Dios,      Em      Dm    G vine a adorar a Dios\nC        G    Am   Fm7\nVine a adorar su Nombre\nC           G  C   C7         \n¡Vine a adorar a Dios!\n\nFm7       G7\nEl vino a mi vida,   Em7            Am7 \nEn un día muy especial,Dm7           G\ncambió mi corazón\n   C             Gm - C-En un nuevo corazón;  Fm7          G7\ny esa es la razón    Em     E7   Am  Dm7\npor la que digo que:     G         C      F\n¡Vine a adorar a Dios!\n\n  Fm7       G7\nEl vino a mi vida,   Em7            Am7 \nEn un día muy especial,Dm7           G\ncambió mi corazón\n   C             C7 En un nuevo corazón;  Fm7          G7\ny esa es la razón   Em7     E7   Am  \npor la que digo que:Dm7         F       C  Am  Em F\n//¡Vine a adorar a Dios!//\n\nAm G  F  G \n\nC         G  Am    Gm \nVine a adorar a Dios,\nFM7        Em7   Dm    G vine a adorar a Dios\nC        G     Am    F Vine a adorar su NombreC          G    C Csus4 C7  \n¡Vine a adorar a Dios!\n\nFm7       G\nEl vino a mi vida,   Em            Am\nEn un día muy especial,Dm           G\ncambió mi corazón\n   C             C7En un nuevo corazón;  Fm7          G7\ny esa es la razón    E7         Am7  Dm7\npor la que digo que:       G7         C      \n¡Vine a adorar a Dios!\n\nAb - C# - \n   F# -     Ab7 \nEl vino a mi vida,   Fm7           Bbm7 \nEn un día muy especial,Ebm7           Ab7\ncambió mi corazón\n      C#        Abm7 C#7 En un nuevo corazón;F#m7          Ab7\n   y esa es la razón   Fm7     Bbm7    \npor la que digo que:  Ebm7       F      C#   Bbm  \n  ¡Vine a adorar a Dios!\n\nEbm7       Ab    C# C#m7\n¡Vine a adorar a Dios!\n\nAm G  F  G",
+      "voiceNotes": "",
+      "activeVersionId": "1792796832277-version-0",
+      "versions": [
+        {
+          "id": "1792796832277-version-0",
+          "title": "Original",
+          "key": "C",
+          "rawText": "Am7 - F - C\nDm - Gsus4-G - C\nC         G  Am    Gm \nVine a adorar a Dios,\nFM7        C   Dm    G vine a adorar a Dios\nC        G     Am    Am7 Vine a adorar su NombreF          G    C    G\n¡Vine a adorar a Dios!\nC         G  Am    Am7 - FM7\nVine a adorar a Dios,      Em      Dm    G vine a adorar a Dios\nC        G    Am   Fm7\nVine a adorar su Nombre\nC           G  C   C7         \n¡Vine a adorar a Dios!\n\nFm7       G7\nEl vino a mi vida,   Em7            Am7 \nEn un día muy especial,Dm7           G\ncambió mi corazón\n   C             Gm - C-En un nuevo corazón;  Fm7          G7\ny esa es la razón    Em     E7   Am  Dm7\npor la que digo que:     G         C      F\n¡Vine a adorar a Dios!\n\n  Fm7       G7\nEl vino a mi vida,   Em7            Am7 \nEn un día muy especial,Dm7           G\ncambió mi corazón\n   C             C7 En un nuevo corazón;  Fm7          G7\ny esa es la razón   Em7     E7   Am  \npor la que digo que:Dm7         F       C  Am  Em F\n//¡Vine a adorar a Dios!//\n\nAm G  F  G \n\nC         G  Am    Gm \nVine a adorar a Dios,\nFM7        Em7   Dm    G vine a adorar a Dios\nC        G     Am    F Vine a adorar su NombreC          G    C Csus4 C7  \n¡Vine a adorar a Dios!\n\nFm7       G\nEl vino a mi vida,   Em            Am\nEn un día muy especial,Dm           G\ncambió mi corazón\n   C             C7En un nuevo corazón;  Fm7          G7\ny esa es la razón    E7         Am7  Dm7\npor la que digo que:       G7         C      \n¡Vine a adorar a Dios!\n\nAb - C# - \n   F# -     Ab7 \nEl vino a mi vida,   Fm7           Bbm7 \nEn un día muy especial,Ebm7           Ab7\ncambió mi corazón\n      C#        Abm7 C#7 En un nuevo corazón;F#m7          Ab7\n   y esa es la razón   Fm7     Bbm7    \npor la que digo que:  Ebm7       F      C#   Bbm  \n  ¡Vine a adorar a Dios!\n\nEbm7       Ab    C# C#m7\n¡Vine a adorar a Dios!\n\nAm G  F  G",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1792811777286",
+      "title": "EL VOLVERÁ",
+      "artist": "",
+      "key": "E",
+      "link": "",
+      "tags": [],
+      "rawText": "​E  A     E  E   A  B   C#m  B A E  A   B    E\n​El Volvera El Volvera El Volvera El Volvera\n \n​E   A    E   E   A  B  C#m  B  A  E  A  B   E\n​El Volvera El Volvera El Volvera El Volvera\n \n​F  Bb  F  F  Bb  C Dm  C  Bb  F  Bb  C   F\n​Resucito Resucito Resucito Resucito\n \n​F   Bb    F   F  Bb     C  Dm  C  Bb  F   Bb  C    F\n​Viene Por Mi Viene Por Mi Viene por mi Viene por mi",
+      "voiceNotes": "",
+      "activeVersionId": "1792811777286-version-0",
+      "versions": [
+        {
+          "id": "1792811777286-version-0",
+          "title": "Original",
+          "key": "E",
+          "rawText": "​E  A     E  E   A  B   C#m  B A E  A   B    E\n​El Volvera El Volvera El Volvera El Volvera\n \n​E   A    E   E   A  B  C#m  B  A  E  A  B   E\n​El Volvera El Volvera El Volvera El Volvera\n \n​F  Bb  F  F  Bb  C Dm  C  Bb  F  Bb  C   F\n​Resucito Resucito Resucito Resucito\n \n​F   Bb    F   F  Bb     C  Dm  C  Bb  F   Bb  C    F\n​Viene Por Mi Viene Por Mi Viene por mi Viene por mi",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1792849208906",
+      "title": "CUANDO VEO DIOS DEL CIELO (EBENEZER)",
+      "artist": "",
+      "key": "A",
+      "link": "",
+      "tags": [],
+      "rawText": "Esus4 - E\n       A           D\nCuando veo Dios el cielo\n E           A   G-A-\nObra de tus manos\n    D            E7\nLa luna y las estrellas\n        A      Bm7\nque tú formaste\n  E           D\nY digo qué es el hombre \n      E             A\npara que de él te acuerdes\n      Bsus4    Dm7               Esus4 Bm7 Am7\ny el hijo del hombre para que lo visites\n   A                             D       Dm7\nLo hiciste un poco menor que los ángeles\nBm7                       E     Gm7\nCoronastele de Gloria y Majestad\n   A\nPusiste de tu amor Señor\nD                          E\n\nCómo no alabar tú fidelidad",
+      "voiceNotes": "",
+      "activeVersionId": "1792849208906-version-0",
+      "versions": [
+        {
+          "id": "1792849208906-version-0",
+          "title": "Original",
+          "key": "A",
+          "rawText": "Esus4 - E\n       A           D\nCuando veo Dios el cielo\n E           A   G-A-\nObra de tus manos\n    D            E7\nLa luna y las estrellas\n        A      Bm7\nque tú formaste\n  E           D\nY digo qué es el hombre \n      E             A\npara que de él te acuerdes\n      Bsus4    Dm7               Esus4 Bm7 Am7\ny el hijo del hombre para que lo visites\n   A                             D       Dm7\nLo hiciste un poco menor que los ángeles\nBm7                       E     Gm7\nCoronastele de Gloria y Majestad\n   A\nPusiste de tu amor Señor\nD                          E\n\nCómo no alabar tú fidelidad",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1792849729722",
+      "title": "RECOMPENSA SOY (CCIN)",
+      "artist": "",
+      "key": "Cm",
+      "link": "",
+      "tags": [],
+      "rawText": "Ab            Cm\nNo nos cansemos, ni desmayemos\n          Fm7       G7\nPorque grande recompensa\n         Cm\nNos traerá aquel que es fiel\n    Bb     Ab                Cm\nLa noche acabará, pronto amanecerá\n          Fm/D      G7\nLa estrella de la mañana\n       Cm           Cm  Bb\nEn mi resplandecerá\n\n     Ab       Eb          Fm9     Cm\nEsperanza gloriosa, Jesucristo volverá\n       Fm9     Fm/D       G           Cm Bb\nY nos libra de la ira, de la ira que vendrá\n         Ab            Eb           Fm9  Cm\nNuestra redención se acerca, pronto aparecerá\n      C#7M     Fm/D          G            G\nY su nombre adoraremos por toda la eternidad\n\n        Ab       Eb          Ab           Eb\nSeremos arrebatados, por el cordero vencedor\n     Fm7     Cm                   C#7M\nResucitarán primero, los que han muerto en su\n  G  \nAmor\n\n        Ab             Eb             Ab\nY como perla de gran precio, fui comprado por\n     Eb\nSu amor\n\n        Fm7             Cm\nFue obediente hasta la muerte\n      C#7M     G \nRecompensa soy\n\n( Ab  Eb  Ab  Eb\n( Fm7  Cm  C#7M )\n( G  F  Eb  Cm )",
+      "voiceNotes": "",
+      "activeVersionId": "1792849729722-version-0",
+      "versions": [
+        {
+          "id": "1792849729722-version-0",
+          "title": "Original",
+          "key": "Cm",
+          "rawText": "Ab            Cm\nNo nos cansemos, ni desmayemos\n          Fm7       G7\nPorque grande recompensa\n         Cm\nNos traerá aquel que es fiel\n    Bb     Ab                Cm\nLa noche acabará, pronto amanecerá\n          Fm/D      G7\nLa estrella de la mañana\n       Cm           Cm  Bb\nEn mi resplandecerá\n\n     Ab       Eb          Fm9     Cm\nEsperanza gloriosa, Jesucristo volverá\n       Fm9     Fm/D       G           Cm Bb\nY nos libra de la ira, de la ira que vendrá\n         Ab            Eb           Fm9  Cm\nNuestra redención se acerca, pronto aparecerá\n      C#7M     Fm/D          G            G\nY su nombre adoraremos por toda la eternidad\n\n        Ab       Eb          Ab           Eb\nSeremos arrebatados, por el cordero vencedor\n     Fm7     Cm                   C#7M\nResucitarán primero, los que han muerto en su\n  G  \nAmor\n\n        Ab             Eb             Ab\nY como perla de gran precio, fui comprado por\n     Eb\nSu amor\n\n        Fm7             Cm\nFue obediente hasta la muerte\n      C#7M     G \nRecompensa soy\n\n( Ab  Eb  Ab  Eb\n( Fm7  Cm  C#7M )\n( G  F  Eb  Cm )",
+          "voiceNotes": ""
+        }
+      ]
+    },
+    {
+      "id": "1792875174385",
+      "title": "BENDITO EL QUE VIENE EN EL NOMBRE DEL SEÑOR",
+      "artist": "",
+      "key": "Am",
+      "link": "",
+      "tags": [],
+      "rawText": "Intro:\nF-G-Am7/// Dm7-Em7-Am7-Dm-F-E (E E\n \nIntro guitarra:\nG-A-B-C-E-D-B-C-B-A-G-A-B-C-E-D\nG-E-C-D-E-F-G-A-B-C-B-A-G-A-B-C-B-A-G-A-B-C-D-E-F-E-E-E\n\nAm7      F     G      Am7 \nCristo rompes las cadenas\n   F     G    Am7     Dm7       E\nlevantas al caído y traes libertad    \nAm7        F    G      Am7\nCristo libertas al cautivo\n   F      G      Am7    Dm7      E\nalimentas al mendigo y traes sanidad      \n \n   Am7                        F       G     Am7\n// Bendito el que viene en el nombre del Señor//\n\nDm7 Em7    Am7 (E)\nRey de Israel       \n  F G  Am7  F  Em7 Am7 F G Am7       Dm7  E\n//Hosanna,  Hosanna,   Hosanna   al altísimo//\n \nF-G-Am7///\nDm7-E 2x..\n  F G  Am7  F  Em7 Am7 F G Am7       Dm7  E\n//Hosanna,  Hosanna,   Hosanna   al altísimo//\n   \nFinal: G-A-Bm7\n      G-F#m7-Bm7\n      G-A-Bm7-Em7-F#-Bm7",
+      "voiceNotes": "",
+      "activeVersionId": "1792875174385-version-0",
+      "versions": [
+        {
+          "id": "1792875174385-version-0",
+          "title": "Original",
+          "key": "Am",
+          "rawText": "Intro:\nF-G-Am7/// Dm7-Em7-Am7-Dm-F-E (E E\n \nIntro guitarra:\nG-A-B-C-E-D-B-C-B-A-G-A-B-C-E-D\nG-E-C-D-E-F-G-A-B-C-B-A-G-A-B-C-B-A-G-A-B-C-D-E-F-E-E-E\n\nAm7      F     G      Am7 \nCristo rompes las cadenas\n   F     G    Am7     Dm7       E\nlevantas al caído y traes libertad    \nAm7        F    G      Am7\nCristo libertas al cautivo\n   F      G      Am7    Dm7      E\nalimentas al mendigo y traes sanidad      \n \n   Am7                        F       G     Am7\n// Bendito el que viene en el nombre del Señor//\n\nDm7 Em7    Am7 (E)\nRey de Israel       \n  F G  Am7  F  Em7 Am7 F G Am7       Dm7  E\n//Hosanna,  Hosanna,   Hosanna   al altísimo//\n \nF-G-Am7///\nDm7-E 2x..\n  F G  Am7  F  Em7 Am7 F G Am7       Dm7  E\n//Hosanna,  Hosanna,   Hosanna   al altísimo//\n   \nFinal: G-A-Bm7\n      G-F#m7-Bm7\n      G-A-Bm7-Em7-F#-Bm7",
+          "voiceNotes": ""
+        }
+      ]
+    }
+  ],
+  "setlists": [
+    {
+      "id": "imported-setlist-0",
+      "date": "",
+      "title": "P. GABY DOMINGO 23",
+      "director": "",
+      "notes": "Importado desde ALABANZASKANCIONERO",
+      "alabanza": [
+        {
+          "songId": "1787193461730",
+          "versionId": "1787193461730-version-0",
+          "tone": "Em",
+          "notes": ""
+        },
+        {
+          "songId": "1787193643210",
+          "versionId": "1787193643210-version-0",
+          "tone": "D",
+          "notes": ""
+        }
+      ],
+      "adoracion": []
+    },
+    {
+      "id": "imported-setlist-1",
+      "date": "",
+      "title": "Domingo 23Agosto2026",
+      "director": "",
+      "notes": "Importado desde ALABANZASKANCIONERO",
+      "alabanza": [
+        {
+          "songId": "1787279294507",
+          "versionId": "1787279294507-version-0",
+          "tone": "Em",
+          "notes": ""
+        },
+        {
+          "songId": "1787326079630",
+          "versionId": "1787326079630-version-0",
+          "tone": "Em",
+          "notes": ""
+        },
+        {
+          "songId": "1787326258783",
+          "versionId": "1787326258783-version-0",
+          "tone": "D",
+          "notes": ""
+        },
+        {
+          "songId": "1787326486655",
+          "versionId": "1787326486655-version-0",
+          "tone": "Em",
+          "notes": ""
+        },
+        {
+          "songId": "1787326616912",
+          "versionId": "1787326616912-version-0",
+          "tone": "Em",
+          "notes": ""
+        },
+        {
+          "songId": "1787326739016",
+          "versionId": "1787326739016-version-0",
+          "tone": "Em",
+          "notes": ""
+        },
+        {
+          "songId": "1787326859584",
+          "versionId": "1787326859584-version-0",
+          "tone": "Em",
+          "notes": ""
+        },
+        {
+          "songId": "1787326928672",
+          "versionId": "1787326928672-version-0",
+          "tone": "Cm",
+          "notes": ""
+        },
+        {
+          "songId": "1787327056928",
+          "versionId": "1787327056928-version-0",
+          "tone": "Am",
+          "notes": ""
+        },
+        {
+          "songId": "1787327188400",
+          "versionId": "1787327188400-version-0",
+          "tone": "Gm",
+          "notes": ""
+        },
+        {
+          "songId": "1787327264248",
+          "versionId": "1787327264248-version-0",
+          "tone": "Gm",
+          "notes": ""
+        },
+        {
+          "songId": "1787327416912",
+          "versionId": "1787327416912-version-0",
+          "tone": "A",
+          "notes": ""
+        },
+        {
+          "songId": "1787327675401",
+          "versionId": "1787327675401-version-0",
+          "tone": "A",
+          "notes": ""
+        },
+        {
+          "songId": "1787193643210",
+          "versionId": "1787193643210-version-0",
+          "tone": "D",
+          "notes": ""
+        }
+      ],
+      "adoracion": []
+    }
+  ],
+  "events": [],
+  "playlistIds": [
+    "1",
+    "2",
+    "3",
+    "1786219653905",
+    "1786220196625",
+    "1786220404912",
+    "1786220551680",
+    "1786221329672",
+    "1786221444087",
+    "1786221561168",
+    "1786222462591",
+    "1786222764582",
+    "1786222839591",
+    "1787193461730",
+    "1787193643210",
+    "1787279294507",
+    "1787326079630",
+    "1787326258783",
+    "1787326486655",
+    "1787326616912",
+    "1787326739016",
+    "1787326859584",
+    "1787326928672",
+    "1787327056928",
+    "1787327188400",
+    "1787327264248",
+    "1787327416912",
+    "1787327675401",
+    "1788044767579",
+    "1788540883184",
+    "1788541549136",
+    "1788541621152",
+    "1788542313432",
+    "1788542818055",
+    "1788543147735",
+    "1788543902311",
+    "1788544890438",
+    "1788545523013",
+    "1788554289120",
+    "1788557179805",
+    "1788557981557",
+    "1788559344644",
+    "1789240742001",
+    "1789240961305",
+    "1789241182009",
+    "1789241421017",
+    "1789241624121",
+    "1789241819657",
+    "1789241872698",
+    "1789243621418",
+    "1789243803090",
+    "1789243847274",
+    "1789244033090",
+    "1789244284818",
+    "1789244431546",
+    "1789244588378",
+    "1789244869458",
+    "1789244967474",
+    "1789245056099",
+    "1789245103898",
+    "1789245272442",
+    "1789245392162",
+    "1789245511578",
+    "1789605701144",
+    "1792774569623",
+    "1792775523141",
+    "1792776074148",
+    "1792776859315",
+    "1792777712591",
+    "1792778630972",
+    "1792779456642",
+    "1792796832277",
+    "1792811777286",
+    "1792849208906",
+    "1792849729722",
+    "1792875174385"
+  ],
+  "theme": "dark"
+}
