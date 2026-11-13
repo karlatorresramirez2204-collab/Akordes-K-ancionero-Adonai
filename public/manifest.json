@@ -1,9 +1,9 @@
 {
   "name": "K-ancionero-Adonaí",
   "short_name": "K-ancionero V2",
-  "id": "/Akordes/",
-  "start_url": "/Akordes/",
-  "scope": "/Akordes/",
+  "id": "/Akordes-K-ancionero-Adonai/",
+  "start_url": "/Akordes-K-ancionero-Adonai/",
+  "scope": "/Akordes-K-ancionero-Adonai/",
   "display": "standalone",
   "display_override": ["standalone", "minimal-ui"],
   "background_color": "#09090b",
@@ -11,7 +11,7 @@
   "lang": "es",
   "description": "Biblioteca de alabanzas, setlists, versiones y audios locales.",
   "icons": [
-    { "src": "/Akordes/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
-    { "src": "/Akordes/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+    { "src": "/Akordes-K-ancionero-Adonai/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/Akordes-K-ancionero-Adonai/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
   ]
 }
